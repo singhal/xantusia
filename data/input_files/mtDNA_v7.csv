@@ -1,0 +1,722 @@
+paper,sample,museum,locale,genbank,species,OTU,morphology,LAT,LON
+Leavitt 2007,84,RLB6581,"USA: Arizona, Yuma Co.; Tule Well; N 32.2245, W 113.8095",EU129666,X. vigilis,vigilis_EM,plants,32.2245,-113.8095
+Sinclair et al 2004,62,LACM 151491,"Tule Well, U.S.A.: Arizona",AY584337,v. vigilis,vigilis_EM,plants,32.22733086,-113.7474799
+Leavitt 2007,1,DHL149,"USA: California, San Diego Co.; Mason Valley; N 33.0042, W 116.4602",EU129648,Xantusia vigilis,vigilis_EM,plants,33.0042,-116.4602
+Leavitt 2007,83,RLB5817,"USA: Arizona, Yuma Co.; Horse Tank; N 33.0333, W 114.1667",EU129661,X. vigilis,vigilis_EM,plants,33.0333,-114.1667
+Leavitt 2007,83,RLB5818,"USA: Arizona, Yuma Co.; Horse Tank; N 33.0333, W 114.1667",EU129662,X. vigilis,vigilis_EM,plants,33.0333,-114.1667
+Sinclair et al 2004,70,LACM 145080,"Vizcaino, Mexico: Baja California Sur",AY584272,v. wigginsi,wigginsi,plants,27.67659,-113.4037
+Leavitt 2007,25,48073,"USA: California, Kern Co.; Greenhorn Creek 2; N 35.5781, W 118.5605",EU129734,X. vigilis,vigilis_KCAV,plants,35.5781,-118.5605
+Leavitt 2007,25,48074,"USA: California, Kern Co.; Greenhorn Creek 2; N 35.5781, W 118.5605",EU129730,X. vigilis,vigilis_KCAV,plants,35.5781,-118.5605
+Lovich et al 2001,SDSNH68805,SDSNH68805,"1 km north of Lake Perris, Riverside Co, CA",AF313386,henshawi,henshawi_1,rocks,33.87492884,-117.1767318
+Lovich et al 2001,SDSNH68806,SDSNH68806,"1 km south Chihuahua Valle Road, Riverside Co, CA",AF313374,henshawi,henshawi_1,rocks,33.38466348,-116.6891395
+Lovich et al 2001,SDSNH68830,SDSNH68830,"2 km north of Ranchita, San Diego Co, CA",AF313382,henshawi,henshawi_1,rocks,33.21154554,-116.5144521
+Leavitt 2007,2,BYU46706,"USA: California, San Diego Co.; Little Blair Valley; N 33.0372, W 116.4036",EU129649,X. vigilis,vigilis_EM,plants,33.0372,-116.4036
+Leavitt 2007,2,BYU46707,"USA: California, San Diego Co.; Little Blair Valley; N 33.0372, W 116.4036",EU129650,X. vigilis,vigilis_EM,plants,33.0372,-116.4036
+Leavitt 2007,2,BYU46708,"USA: California, San Diego Co.; Little Blair Valley; N 33.0372, W 116.4036",EU129646,X. vigilis,vigilis_EM,plants,33.0372,-116.4036
+Noonan et al 2013,wigginsi 5267.14,LACM 145080,Mexico: Baja California: Vizcaino,EU116672,wigginsi,wigginsi,plants,27.67659,-113.4037
+Sinclair et al 2004,70,LACM 145085,"Vizcaino, Mexico: Baja California Sur",AY584273,v. wigginsi,wigginsi,plants,27.67659,-113.4037
+Leavitt 2007,135,RLB5267.14,"Mexico: Baja California Sur; Vizcaino; N 27.7667, W 113.4167",EU129970,X. wigginsi,wigginsi,plants,27.7667,-113.4167
+Noonan et al 2013,'Yucca Valley' DHL32,BYU 48040,USA: California: Yucca Valley Entrance,EU129908,NA,vigilis_YV,plants,34.11417,-116.43224
+Noonan et al 2013,vigilis DHL148,BYU 46708,USA: California: Mason Valley,EU129647,vigilis,vigilis_EM,plants,33.0372222,-116.4035833
+Noonan et al 2013,'Yucca Valley' DHL47,BYU 48087,USA: California: La Contenta Road,EU129955,NA,vigilis_YV,plants,34.11198065,-116.3693889
+Sinclair et al 2004,36,LACM 138837,"Horse Tank, U.S.A.: Arizona",AY584302,v. vigilis,vigilis_EM,plants,33.08512952,-114.137499
+Leavitt 2007,82,RLB5821,"USA: Arizona, Yuma Co.; Budwiser Spring; N 33.4167, W 114.0333",EU129660,X. vigilis,vigilis_EM,plants,33.4167,-114.0333
+Leavitt 2007,135,RLB5267.17,"Mexico: Baja California Sur; Vizcaino; N 27.7667, W 113.4167",EU129971,X. wigginsi,wigginsi,plants,27.7667,-113.4167
+Leavitt 2007,135,RLB5267.18,"Mexico: Baja California Sur; Vizcaino; N 27.7667, W 113.4167",EU129972,X. wigginsi,wigginsi,plants,27.7667,-113.4167
+Sinclair et al 2004,69,ENEPI 7708,"Rosalillita, Mexico: Baja California",AY584344,v. wigginsi,wigginsi,plants,28.66988669,-114.2342849
+Noonan et al 2013,wigginsi ZE4,ENEPI 7708,Mexico: Baja California: Rosalillita,EU116669,wigginsi,wigginsi,plants,28.66988669,-114.2342849
+Leavitt 2007,134,ENEPI7708,"Mexico: Baja California; Rosalillita; N 28.6973, W 114.1854",EU129964,X. wigginsi,wigginsi,plants,28.6973,-114.1854
+Leavitt 2007,82,RLB5822,"USA: Arizona, Yuma Co.; Budwiser Spring; N 33.4167, W 114.0333",EU129663,X. vigilis,vigilis_EM,plants,33.4167,-114.0333
+Leavitt 2007,82,RLB5823,"USA: Arizona, Yuma Co.; Budwiser Spring; N 33.4167, W 114.0333",EU129665,X. vigilis,vigilis_EM,plants,33.4167,-114.0333
+Leavitt 2007,82,RLB5824,"USA: Arizona, Yuma Co.; Budwiser Spring; N 33.4167, W 114.0333",EU129664,X. vigilis,vigilis_EM,plants,33.4167,-114.0333
+Leavitt 2007,133,ENEPI7703,"Mexico: Baja California; Chapala; N 29.2403, W 114.1543",EU129965,X. wigginsi,wigginsi,plants,29.2403,-114.1543
+Leavitt 2007,82,RLB5826,"USA: Arizona, Yuma Co.; Budwiser Spring; N 33.4167, W 114.0333",EU129667,X. vigilis,vigilis_EM,plants,33.4167,-114.0333
+Leavitt 2007,11,BYU46715,"USA: California, San Bernardino Co.; Hodge Road.; N 34.7326, W 117.1317",EU129809,X. vigilis,vigilis_LV,plants,34.7326,-117.1317
+Leavitt 2007,55,BYU46845,"USA: Utah, San Juan Co.; Moki Canyon; N 37.4835, W 110.6372",EU129712,X. vigilis,NA,plants,37.4835,-110.6372
+Sinclair et al 2004,35,LACM 138840,"Budwiser Spring, U.S.A.: Arizona",AY584303,v. vigilis,vigilis_EM,plants,33.41686828,-114.0355996
+Sinclair et al 2004,35,LACM 138841,"Budwiser Spring, U.S.A.: Arizona",AY584304,v. vigilis,vigilis_EM,plants,33.41701017,-114.0289908
+Sinclair et al 2004,68,ENEPI 7703,"Chapala, Mexico: Baja California",AY584347,v. wigginsi,wigginsi,plants,29.46917023,-114.1760443
+Noonan et al 2013,wigginsi ZL9,ENEPI 7703,Mexico: Baja California:  Chapala,EU129914,wigginsi,wigginsi,plants,29.46917023,-114.1760443
+Leavitt 2007,132,ENEPI7706,"Mexico: Baja California; Fernando; N 30.0149, W 115.2505",EU129966,X. wigginsi,wigginsi,plants,30.0149,-115.2505
+Leavitt 2007,131,ENEPI7704,"Mexico: Baja California; Rosario; N 30.0207, W 115.5118",EU129967,X. wigginsi,wigginsi,plants,30.0207,-115.5118
+Sinclair et al 2004,66,ENEPI 7704,"Rosario, Mexico: Baja California",AY584348,v. wigginsi,wigginsi,plants,30.06010536,-115.7249377
+Noonan et al 2013,wigginsi ZM3,ENEPI 7704,Mexico: Baja California: Rosario,EU116666,wigginsi,wigginsi,plants,30.06010536,-115.7249377
+Leavitt 2007,129,ENEPI7700,"Mexico: Baja California; Matias; N 31.28, W 115.2545",EU129969,X. wigginsi,wigginsi,plants,31.28,-115.2545
+Leavitt 2007,130,ENEPI7702,"Mexico: Baja California; Trinidad; N 31.3272, W 115.2545",EU129968,X. wigginsi,wigginsi,plants,31.3272,-115.2545
+Sinclair et al 2004,64,ENEPI 7700,"Matias, Mexico: Baja California",AY584341,v. vigilis,wigginsi,plants,31.35487,-115.52311
+Noonan et al 2013,wigginsi ZA3,ENEPI 7700,Mexico: Baja California: Matias,EU116671,wigginsi,wigginsi,plants,31.35487,-115.52311
+Sinclair et al 2004,65,ENEPI 7702,"Trinidad, Mexico: Baja California",AY584342,v. vigilis,wigginsi,plants,31.88406502,-116.6620035
+Noonan et al 2013,wigginsi ZB7,ENEPI 7702,Mexico: Baja California: Trinidad,EU116670,wigginsi,wigginsi,plants,31.88406502,-116.6620035
+Sinclair et al 2004,67,ENEPI 7706,"Fernando, Mexico: Baja California",AY584343,v. wigginsi,wigginsi,plants,31.89055929,-116.5637351
+Noonan et al 2013,wigginsi ZD1,ENEPI 7706,Mexico: Baja California:  Fernando,EU116668,wigginsi,wigginsi,plants,31.89055929,-116.5637351
+Leavitt 2007,128,BYU48029,"USA: California, San Diego Co.; Jacumba; N 32.6313, W 116.1203",EU129962,X. wigginsi,wigginsi,plants,32.6313,-116.1203
+Leavitt 2007,128,BYU48030,"USA: California, San Diego Co.; Jacumba; N 32.6313, W 116.1203",EU129963,X. wigginsi,wigginsi,plants,32.6313,-116.1203
+Leavitt 2007,128,RLB6670,"USA: California, San Diego Co.; Jacumba; N 32.6313, W 116.1203",EU129961,X. wigginsi,wigginsi,plants,32.6313,-116.1203
+Sinclair et al 2004,74,LACM 151492,"Jacumba, U.S.A.: California",AY584350,v. vigilis,wigginsi,plants,32.65664881,-116.18463
+Sinclair et al 2004,75,LACM 151493,"Scissors, U.S.A.: California",AY584351,v. vigilis,wigginsi,plants,33.09643,-116.47529
+Noonan et al 2013,wigginsi DHL7,BYU 48031,USA: California: Scissors,EU129959,wigginsi,wigginsi,plants,33.1009722,-116.4666667
+Leavitt 2007,127,BYU48031,"USA: California, San Diego Co.; Scissors; N 33.1022, W 116.4842",EU129959,Xantusia wigginsi,wigginsi,plants,33.1022,-116.4842
+Leavitt 2007,127,BYU48032,"USA: California, San Diego Co.; Scissors; N 33.1022, W 116.4842",EU129960,Xantusia wigginsi,wigginsi,plants,33.1022,-116.4842
+Leavitt 2007,104,BYU48033,"USA: California, San Bernardino Co.; Sheep Hole Pass; N 34.2493, W 115.7227",EU129945,Yucca Valley,vigilis_YV,plants,34.2493,-115.7227
+Leavitt 2007,103,BYU48035,"USA: California, San Bernardino Co.; Twenty-nine Palms; N 34.1358, W 116.1507",EU129947,Yucca Valley,vigilis_YV,plants,34.1358,-116.1507
+Leavitt 2007,103,BYU48036,"USA: California, San Bernardino Co.; Twenty-nine Palms; N 34.1358, W 116.1507",EU129948,Yucca Valley,vigilis_YV,plants,34.1358,-116.1507
+Leavitt 2007,103,BYU48037,"USA: California, San Bernardino Co.; Twenty-nine Palms; N 34.1358, W 116.1507",EU129949,Yucca Valley,vigilis_YV,plants,34.1358,-116.1507
+Leavitt 2007,127,RLB6671,"USA: California, San Diego Co.; Scissors; N 33.1022, W 116.4842",EU129958,Xantusia wigginsi,wigginsi,plants,33.1022,-116.4842
+Leavitt 2007,126,BYU46709,"USA: California, San Diego Co.; Collin's Valley; N 33.361, W 116.4103",EU129875,San Jacinto,vigilis_SJ,plants,33.361,-116.4103
+Leavitt 2007,112,BYU48040,"USA: California, San Bernardino Co.; Yucca Valley entrance; N 34.1112, W 116.4752",EU129908,Yucca Valley/ San Jacinto,vigilis_YV,plants,34.1112,-116.4752
+Noonan et al 2013,'San Jacinto' DHL9,BYU 48019,USA: California: Pinyon Flats,EU129864,NA,vigilis_SJ,plants,33.4202778,-116.4644167
+Leavitt 2007,125,BYU46704,"USA: California, Riverside Co.; Nance Canyon; N 33.4871, W 116.5904",EU129872,San Jacinto,vigilis_SJ,plants,33.4871,-116.5904
+Leavitt 2007,100,BYU48043,"USA: California, San Bernardino Co.; Johnson Valley; N 34.3263, W 116.5606",EU129915,Yucca Valley,vigilis_YV,plants,34.3263,-116.5606
+Leavitt 2007,101,BYU48044,"USA: California, San Bernardino Co.; Flamingo Heights; N 34.2152, W 116.4344",EU129909,Yucca Valley,vigilis_YV,plants,34.2152,-116.4344
+Leavitt 2007,101,BYU48045,"USA: California, San Bernardino Co.; Flamingo Heights; N 34.2152, W 116.4344",EU129906,Yucca Valley,vigilis_YV,plants,34.2152,-116.4344
+Leavitt 2007,100,BYU48046,"USA: California, San Bernardino Co.; Johnson Valley; N 34.3263, W 116.5606",EU129913,Yucca Valley,vigilis_YV,plants,34.3263,-116.5606
+Leavitt 2007,109,BYU48047,"USA: California, San Bernardino Co.; La Contenta Road.; N 34.0768, W 116.3546",EU129955,Yucca Valley,vigilis_YV,plants,34.0768,-116.3546
+Leavitt 2007,109,BYU48048,"USA: California, San Bernardino Co.; La Contenta Road.; N 34.0768, W 116.3546",EU129903,Yucca Valley,vigilis_YV,plants,34.0768,-116.3546
+Leavitt 2007,109,BYU48049,"USA: California, San Bernardino Co.; La Contenta Road.; N 34.0768, W 116.3546",EU129956,Yucca Valley,vigilis_YV,plants,34.0768,-116.3546
+Leavitt 2007,100,BYU48050,"USA: California, San Bernardino Co.; Johnson Valley; N 34.3263, W 116.5606",EU129916,Yucca Valley,vigilis_YV,plants,34.3263,-116.5606
+Leavitt 2007,95,BYU48051,"USA: California, San Bernardino Co.; Silver Reef Mine; N 34.3851, W 116.7442",EU129927,Yucca Valley,vigilis_YV,plants,34.3851,-116.7442
+Leavitt 2007,95,BYU48052,"USA: California, San Bernardino Co.; Silver Reef Mine; N 34.3851, W 116.7442",EU129931,Yucca Valley,vigilis_YV,plants,34.3851,-116.7442
+Leavitt 2007,9,BYU48053,"USA: California, San Bernardino Co.; Lucerne Valley, Milpas Road; N 34.4489, W 117.0558",EU129812,X. vigilis,vigilis_LV,plants,34.4489,-117.0558
+Leavitt 2007,9,BYU48054,"USA: California, San Bernardino Co.; Lucerne Valley, Milpas Road; N 34.4489, W 117.0558",EU129828,X. vigilis,vigilis_LV,plants,34.4489,-117.0558
+Leavitt 2007,38,BYU48055,"USA: California, Kern Co.; Walker Pass; N 35.651, W 118.0054",EU129834,X. vigilis,vigilis_OV,plants,35.651,-118.0054
+Leavitt 2007,38,BYU48056,"USA: California, Kern Co.; Walker Pass; N 35.651, W 118.0054",EU129839,X. vigilis,vigilis_OV,plants,35.651,-118.0054
+Leavitt 2007,38,BYU48057,"USA: California, Kern Co.; Walker Pass; N 35.651, W 118.0054",EU129837,X. vigilis,vigilis_OV,plants,35.651,-118.0054
+Leavitt 2007,33,BYU48058,"USA: California, Kern Co.; Onyx; N 35.7208, W 118.1704",EU129726,X. vigilis,vigilis_KCAV,plants,35.7208,-118.1704
+Leavitt 2007,33,BYU48059,"USA: California, Kern Co.; Onyx; N 35.7208, W 118.1704",EU129727,X. vigilis,vigilis_KCAV,plants,35.7208,-118.1704
+Leavitt 2007,33,BYU48060,"USA: California, Kern Co.; Onyx; N 35.7208, W 118.1704",EU129728,X. vigilis,vigilis_KCAV,plants,35.7208,-118.1704
+Leavitt 2007,33,BYU48061,"USA: California, Kern Co.; Onyx; N 35.7208, W 118.1704",EU129725,X. vigilis,vigilis_KCAV,plants,35.7208,-118.1704
+Leavitt 2007,27,BYU48062,"USA: California, Kern Co.; Wofford Heights; N 35.7031, W 118.4663",EU129932,X. vigilis,vigilis_YV,plants,35.7031,-118.4663
+Leavitt 2007,95,BYU48062,"USA: California, San Bernardino Co.; Silver Reef Mine; N 34.3851, W 116.7442",EU129932,Yucca Valley,vigilis_YV,plants,35.7031,-118.4663
+Leavitt 2007,27,BYU48063,"USA: California, Kern Co.; Wofford Heights; N 35.7031, W 118.4663",NA,X. vigilis,NA,plants,35.7031,-118.4663
+Leavitt 2007,27,BYU48064,"USA: California, Kern Co.; Wofford Heights; N 35.7031, W 118.4663",EU129738,X. vigilis,vigilis_KCAV,plants,35.7031,-118.4663
+Leavitt 2007,89,BYU48065,"USA: California, Kern Co.; S. Woody; N 35.6685, W 118.8493",EU129861,X. sierrae,sierra,rocks,35.6685,-118.8493
+Leavitt 2007,89,BYU48066,"USA: California, Kern Co.; S. Woody; N 35.6685, W 118.8493",EU129862,X. sierrae,sierra,rocks,35.6685,-118.8493
+Leavitt 2007,87,BYU48067,"USA: California, Kern Co.; Pine Mountain Road; N 35.5697, W 118.7986",EU129849,X. sierrae,sierra,rocks,35.5697,-118.7986
+Leavitt 2007,87,BYU48068,"USA: California, Kern Co.; Pine Mountain Road; N 35.5697, W 118.7986",EU129850,X. sierrae,sierra,rocks,35.5697,-118.7986
+Leavitt 2007,87,BYU48069,"USA: California, Kern Co.; Pine Mountain Road; N 35.5697, W 118.7986",EU129848,X. sierrae,sierra,rocks,35.5697,-118.7986
+Leavitt 2007,87,BYU48070,"USA: California, Kern Co.; Pine Mountain Road; N 35.5697, W 118.7986",EU129851,X. sierrae,sierra,rocks,35.5697,-118.7986
+Leavitt 2007,86,BYU48071,"USA: California, Kern Co.; Rancheria Road. 2; N 35.5067, W 118.765",EU129852,X. sierrae,sierra,rocks,35.5067,-118.765
+Leavitt 2007,25,BYU48072,"USA: California, Kern Co.; Greenhorn Creek 2; N 35.5781, W 118.5605",EU129733,X. vigilis,vigilis_KCAV,plants,35.5781,-118.5605
+Leavitt 2007,44,BYU48075,"USA: California, Inyo Co.; Nopah Mts. Pass; N 35.8841, W 116.0594",EU129718,X. vigilis,NA,plants,35.8841,-116.0594
+Leavitt 2007,3,BYU48247,"USA: California, San Bernardino Co.; Lucerne Valley, Bourbon Road.; N 34.4144, W 116.9886",EU129917,X. vigilis/Yucca Valley,vigilis_YV,plants,34.4144,-116.9886
+Leavitt 2007,3,BYU48248,"USA: California, San Bernardino Co.; Lucerne Valley, Bourbon Road.; N 34.4144, W 116.9886",EU129813,X. vigilis/Yucca Valley,vigilis_YV,plants,34.4144,-116.9886
+Leavitt 2007,5,BYU48249,"USA: California, San Bernardino Co.; Lucerne Valley, Miller Ranch Road.; N 34.4144, W 117.008",EU129814,X. vigilis,vigilis_LV,plants,34.4144,-117.008
+Leavitt 2007,7,BYU48250,"USA: California, San Bernardino Co.; Lucerne Valley, Sutter Road.; N 34.4216, W 117.0336",EU129824,X. vigilis,vigilis_LV,plants,34.4216,-117.0336
+Leavitt 2007,4,BYU48251,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129822,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,4,BYU48252,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129815,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,4,BYU48253,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129816,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,4,BYU48254,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129817,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,4,BYU48255,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129825,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,40,BYU48257,"USA: California, Inyo Co.; White Mountains; N 37.4028, W 118.214",EU129830,X. vigilis,vigilis_OV,plants,37.4028,-118.214
+Sinclair et al 2004,34,LACM 145210,"Harquahala Mountains, U.S.A.: Arizona",AY584323,v. vigilis,vigilis_EM,plants,33.81199736,-113.3468215
+Leavitt 2007,41,CAS189017,"USA: California, Fresno Co.; Ciervo Hills; N 36.4855, W 120.5967",EU129846,X. vigilis,vigilis_PP,plants,36.4855,-120.5967
+Leavitt 2007,41,CAS189018,"USA: California, Fresno Co.; Ciervo Hills; N 36.4855, W 120.5967",EU129847,X. vigilis,vigilis_PP,plants,36.4855,-120.5967
+Leavitt 2007,31,CAS219626,"USA: California, Kern Co.; Bird Springs Road.; N 35.5614, W 118.1945",EU129748,X. vigilis,vigilis_KCAV,plants,35.5614,-118.1945
+Leavitt 2007,31,CAS219627,"USA: California, Kern Co.; Bird Springs Road.; N 35.5614, W 118.1945",EU129749,X. vigilis,vigilis_KCAV,plants,35.5614,-118.1945
+Leavitt 2007,32,CAS219686,"USA: California, Kern Co.; Piute Mts.; N 35.4656, W 118.2402",EU129750,X. vigilis,vigilis_KCAV,plants,35.4656,-118.2402
+Leavitt 2007,32,CAS219687,"USA: California, Kern Co.; Piute Mts.; N 35.4656, W 118.2402",EU129774,X. vigilis,vigilis_KCAV,plants,35.4656,-118.2402
+Leavitt 2007,156,CAS224956,"USA: California, Tulare Co.; Big Meadows; N 36.7177, W 118.8297",EU129957,X. vigilis,vigilis_YV,plants,36.7177,-118.8297
+Sinclair et al 2004,34,LACM 145211,"Harquahala Mountains, U.S.A.: Arizona",AY584324,v. vigilis,vigilis_EM,plants,33.81206727,-113.3356208
+Sinclair et al 2004,34,LACM 145213,"Harquahala Mountains, U.S.A.: Arizona",AY584325,v. vigilis,vigilis_EM,plants,33.81206727,-113.3356208
+Leavitt 2007,81,RLB5758,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129658,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB5759,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129651,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB5760,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129652,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,108,DHL-JT1,"USA: California, Riverside Co.; Juniper Flats, JOTR; N 33.9733, W 116.1674",EU129950,Yucca Valley,vigilis_YV,plants,33.9733,-116.1674
+Leavitt 2007,105,DHL-JT10,"USA: California, Riverside Co.; Bell Campground, JOTR; N 34.0088, W 116.0223",EU129951,Yucca Valley,vigilis_YV,plants,34.0088,-116.0223
+Leavitt 2007,108,DHL-JT2,"USA: California, Riverside Co.; Juniper Flats, JOTR; N 33.9733, W 116.1674",EU129952,Yucca Valley,vigilis_YV,plants,33.9733,-116.1674
+Leavitt 2007,108,DHL-JT3,"USA: California, Riverside Co.; Juniper Flats, JOTR; N 33.9733, W 116.1674",EU129953,Yucca Valley,vigilis_YV,plants,33.9733,-116.1674
+Leavitt 2007,107,DHL-JT4,"USA: California, Riverside Co.; Cottonwood Springs, JOTR; N 33.7463, W 115.8241",EU129940,Yucca Valley,vigilis_YV,plants,33.7463,-115.8241
+Leavitt 2007,107,DHL-JT5,"USA: California, Riverside Co.; Cottonwood Springs, JOTR; N 33.7463, W 115.8241",EU129941,Yucca Valley,vigilis_YV,plants,33.7463,-115.8241
+Leavitt 2007,107,DHL-JT6,"USA: California, Riverside Co.; Cottonwood Springs, JOTR; N 33.7463, W 115.8241",EU129943,Yucca Valley,vigilis_YV,plants,33.7463,-115.8241
+Leavitt 2007,106,DHL-JT7,"USA: California, Riverside Co.; Black Eagle Mine Road., JOTR; N 33.8712, W 115.6836",EU129942,Yucca Valley,vigilis_YV,plants,33.8712,-115.6836
+Leavitt 2007,105,DHL-JT8,"USA: California, Riverside Co.; Bell Campground, JOTR; N 34.0088, W 116.0223",EU129944,Yucca Valley,vigilis_YV,plants,34.0088,-116.0223
+Leavitt 2007,105,DHL-JT9,"USA: California, Riverside Co.; Bell Campground, JOTR; N 34.0088, W 116.0223",EU129954,Yucca Valley,vigilis_YV,plants,34.0088,-116.0223
+Leavitt 2007,102,DHL-SR62.1,"USA: California, San Bernardino Co.; Joshua Tree; N 34.1377, W 116.3423",EU129905,Yucca Valley,vigilis_YV,plants,34.1377,-116.3423
+Leavitt 2007,102,DHL-SR62.2,"USA: California, San Bernardino Co.; Joshua Tree; N 34.1377, W 116.3423",EU129907,Yucca Valley,vigilis_YV,plants,34.1377,-116.3423
+Leavitt 2007,98,DHL100,"USA: California, San Bernardino Co.; SE of East Ord Mt.; N 34.5916, W 116.7539",NA,Yucca Valley,vigilis_YV,plants,34.5916,-116.7539
+Leavitt 2007,98,DHL101,"USA: California, San Bernardino Co.; SE of East Ord Mt.; N 34.5916, W 116.7539",EU129939,Yucca Valley,vigilis_YV,plants,34.5916,-116.7539
+Leavitt 2007,96,DHL102,"USA: California, San Bernardino Co.; W side West Ord Mt.; N 34.6977, W 116.9524",EU129936,Yucca Valley,vigilis_YV,plants,34.6977,-116.9524
+Leavitt 2007,96,DHL103,"USA: California, San Bernardino Co.; W side West Ord Mt.; N 34.6977, W 116.9524",EU129937,Yucca Valley,vigilis_YV,plants,34.6977,-116.9524
+Leavitt 2007,96,DHL104,"USA: California, San Bernardino Co.; W side West Ord Mt.; N 34.6977, W 116.9524",EU129935,Yucca Valley,vigilis_YV,plants,34.6977,-116.9524
+Leavitt 2007,19,DHL105,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129762,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,19,DHL106,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129763,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,19,DHL107,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129761,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,19,DHL108,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129775,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,19,DHL109,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129777,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,19,DHL110,"USA: California, Los Angeles Co.; Rosamond; N 34.8725, W 118.3779",EU129776,X. vigilis,vigilis_KCAV,plants,34.8725,-118.3779
+Leavitt 2007,18,DHL111,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129765,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,18,DHL112,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129766,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,18,DHL113,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129767,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,18,DHL114,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129768,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,18,DHL115,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129769,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,18,DHL116,"USA: California, Los Angeles Co.; Neenack; N 34.7847, W 118.3779",EU129770,X. vigilis,vigilis_KCAV,plants,34.7847,-118.3779
+Leavitt 2007,125,BYU46705,"USA: California, Riverside Co.; Nance Canyon; N 33.4871, W 116.5904",EU129873,San Jacinto,vigilis_SJ,plants,33.4871,-116.5904
+Leavitt 2007,125,DHL144,"USA: California, Riverside Co.; Nance Canyon; N 33.4871, W 116.5904",EU129874,San Jacinto,vigilis_SJ,plants,33.4871,-116.5904
+Leavitt 2007,124,BYU46703,"USA: California, Riverside Co.; Sawmill Road; N 33.5731, W 116.4465",EU129871,San Jacinto,vigilis_SJ,plants,33.5731,-116.4465
+Leavitt 2007,123,BYU48019,"USA: California, Riverside Co.; Pinyon Flats; N 33.5855, W 116.4587",EU129864,San Jacinto,vigilis_SJ,plants,33.5855,-116.4587
+Leavitt 2007,123,BYU48020,"USA: California, Riverside Co.; Pinyon Flats; N 33.5855, W 116.4587",EU129869,San Jacinto,vigilis_SJ,plants,33.5855,-116.4587
+Leavitt 2007,123,BYU48021,"USA: California, Riverside Co.; Pinyon Flats; N 33.5855, W 116.4587",EU129865,San Jacinto,vigilis_SJ,plants,33.5855,-116.4587
+Leavitt 2007,111,DHL124,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129910,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,111,DHL125,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129925,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,111,DHL126,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129924,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,111,DHL127,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129911,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,111,DHL128,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129912,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,111,DHL129,"USA: California, San Bernardino Co.; Pioneertown; N 34.165, W 116.5263",EU129926,Yucca Valley,vigilis_YV,plants,34.165,-116.5263
+Leavitt 2007,14,DHL131,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129799,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,14,DHL132,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129800,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,14,DHL133,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129801,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,14,DHL134,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129790,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,14,DHL135,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129802,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,14,DHL136,"USA: California, Los Angeles Co.; Hwy. 18 Aquaduct; N 34.4911, W 117.7132",EU129803,X. vigilis,vigilis_KCAV,plants,34.4911,-117.7132
+Leavitt 2007,10,DHL137,"USA: California, San Bernardino Co.; Lucerne Valley, Granite Mts.; N 34.5643, W 116.9756",EU129811,X. vigilis,vigilis_LV,plants,34.5643,-116.9756
+Leavitt 2007,123,BYU48022,"USA: California, Riverside Co.; Pinyon Flats; N 33.5855, W 116.4587",EU129866,San Jacinto,vigilis_SJ,plants,33.5855,-116.4587
+Leavitt 2007,123,BYU48023,"USA: California, Riverside Co.; Pinyon Flats; N 33.5855, W 116.4587",EU129867,San Jacinto,vigilis_SJ,plants,33.5855,-116.4587
+Leavitt 2007,1,DHL148,"USA: California, San Diego Co.; Mason Valley; N 33.0042, W 116.4602",EU129647,Xantusia vigilis,NA,plants,33.0042,-116.4602
+Leavitt 2007,81,RLB5761,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129653,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB6062,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129654,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB6063,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129659,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB6065,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129655,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,81,RLB6069,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129656,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Leavitt 2007,11,DHL157,"USA: California, San Bernardino Co.; Hodge Road.; N 34.7326, W 117.1317",EU129810,X. vigilis,vigilis_LV,plants,34.7326,-117.1317
+Leavitt 2007,11,DHL158,"USA: California, San Bernardino Co.; Hodge Road.; N 34.7326, W 117.1317",EU129807,X. vigilis,vigilis_LV,plants,34.7326,-117.1317
+Leavitt 2007,11,DHL159,"USA: California, San Bernardino Co.; Hodge Road.; N 34.7326, W 117.1317",EU129829,X. vigilis,vigilis_LV,plants,34.7326,-117.1317
+Leavitt 2007,11,DHL160,"USA: California, San Bernardino Co.; Hodge Road.; N 34.7326, W 117.1317",EU129808,X. vigilis,vigilis_LV,plants,34.7326,-117.1317
+Leavitt 2007,4,DHL171,"USA: California, San Bernardino Co.; Lucerne Valley, Buena Vista Road.; N 34.4111, W 116.9986",EU129823,X. vigilis,vigilis_LV,plants,34.4111,-116.9986
+Leavitt 2007,81,RLB6070,"USA: Arizona, La Paz Co.; Harquahala Mts.; N 33.8167, W 113.3833",EU129657,X. vigilis,vigilis_EM,plants,33.8167,-113.3833
+Noonan et al 2013,vigilis 5518,LACM 138479,USA: California: Hesperia,EU116652,vigilis,vigilis_EM,plants,34.4310119,-117.3001276
+Leavitt 2007,73,RLB6151,"USA: Arizona, Mohave Co.; McCraken Peak; N 34.45, W 113.7833",EU129578,X. vigilis,vigilis_EM,plants,34.45,-113.7833
+Leavitt 2007,73,RLB6154,"USA: Arizona, Mohave Co.; McCraken Peak; N 34.45, W 113.7833",EU129607,X. vigilis,vigilis_EM,plants,34.45,-113.7833
+Leavitt 2007,122,48025,"USA: California, Riverside Co.; Hwy. 74; N 33.6209, W 116.412",EU129863,San Jacinto,vigilis_SJ,plants,33.6209,-116.412
+Leavitt 2007,122,BYU48024,"USA: California, Riverside Co.; Hwy. 74; N 33.6209, W 116.412",EU129868,San Jacinto,vigilis_SJ,plants,33.6209,-116.412
+Leavitt 2007,104,DHL36,"USA: California, San Bernardino Co.; Sheep Hole Pass; N 34.2493, W 115.7227",EU129946,Yucca Valley,vigilis_YV,plants,34.2493,-115.7227
+Leavitt 2007,104,DHL37,"USA: California, San Bernardino Co.; Sheep Hole Pass; N 34.2493, W 115.7227",NA,Yucca Valley,vigilis_YV,plants,34.2493,-115.7227
+Leavitt 2007,73,RLB6155,"USA: Arizona, Mohave Co.; McCraken Peak; N 34.45, W 113.7833",EU129579,X. vigilis,vigilis_EM,plants,34.45,-113.7833
+Leavitt 2007,73,RLB6156,"USA: Arizona, Mohave Co.; McCraken Peak; N 34.45, W 113.7833",EU129608,X. vigilis,vigilis_EM,plants,34.45,-113.7833
+Leavitt 2007,73,RLB6157,"USA: Arizona, Mohave Co.; McCraken Peak; N 34.45, W 113.7833",EU129609,X. vigilis,vigilis_EM,plants,34.45,-113.7833
+Sinclair et al 2004,24,LACM 145187,"McCraken Peak, U.S.A.: Arizona",AY584333,v. vigilis,vigilis_EM,plants,34.4513333,-113.7736667
+Leavitt 2007,75,RLB5405,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129539,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5409,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129570,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,99,DHL82,"USA: California, San Bernardino Co.; SW of Pisgah; N 34.6933, W 116.4892",EU129928,Yucca Valley,vigilis_YV,plants,34.6933,-116.4892
+Leavitt 2007,99,DHL83,"USA: California, San Bernardino Co.; SW of Pisgah; N 34.6933, W 116.4892",EU129938,Yucca Valley,vigilis_YV,plants,34.6933,-116.4892
+Leavitt 2007,94,DHL84,"USA: California, San Bernardino Co.; Lucerne Valley, Santa Fe Fire Road.; N 34.4218, W 116.8036",EU129929,Yucca Valley,vigilis_YV,plants,34.4218,-116.8036
+Leavitt 2007,93,DHL85,"USA: California, San Bernardino Co.; Lucerne Valley, Foothill Road.; N 34.4286, W 116.8113",EU129930,Yucca Valley,vigilis_YV,plants,34.4286,-116.8113
+Leavitt 2007,93,DHL86,"USA: California, San Bernardino Co.; Lucerne Valley, Foothill Road.; N 34.4286, W 116.8113",NA,Yucca Valley,vigilis_YV,plants,34.4286,-116.8113
+Leavitt 2007,92,DHL87,"USA: California, San Bernardino Co.; Lucerne Valley, Hwy. 18; N 34.3797, W 116.8686",EU129918,Yucca Valley,vigilis_YV,plants,34.3797,-116.8686
+Leavitt 2007,92,DHL88,"USA: California, San Bernardino Co.; Lucerne Valley, Hwy. 18; N 34.3797, W 116.8686",EU129919,Yucca Valley,vigilis_YV,plants,34.3797,-116.8686
+Leavitt 2007,8,DHL89,"USA: California, San Bernardino Co.; Lucerne Valley, Ocotillo Way; N 34.4291, W 117.042",EU129819,X. vigilis,vigilis_LV,plants,34.4291,-117.042
+Leavitt 2007,8,DHL90,"USA: California, San Bernardino Co.; Lucerne Valley, Ocotillo Way; N 34.4291, W 117.042",EU129826,X. vigilis,vigilis_LV,plants,34.4291,-117.042
+Leavitt 2007,8,DHL91,"USA: California, San Bernardino Co.; Lucerne Valley, Ocotillo Way; N 34.4291, W 117.042",EU129827,X. vigilis,vigilis_LV,plants,34.4291,-117.042
+Leavitt 2007,6,DHL92,"USA: California, San Bernardino Co.; Lucerne Valley, Railroad Road.; N 34.401, W 117.0204",EU129820,X. vigilis,vigilis_LV,plants,34.401,-117.0204
+Leavitt 2007,6,DHL93,"USA: California, San Bernardino Co.; Lucerne Valley, Railroad Road.; N 34.401, W 117.0204",EU129821,X. vigilis,vigilis_LV,plants,34.401,-117.0204
+Leavitt 2007,90,DHL94,"USA: California, San Bernardino Co.; Lucerne Valley, Custer Road; N 34.4093, W 116.9808",EU129920,Yucca Valley,vigilis_YV,plants,34.4093,-116.9808
+Leavitt 2007,90,DHL95,"USA: California, San Bernardino Co.; Lucerne Valley, Custer Road; N 34.4093, W 116.9808",EU129921,Yucca Valley,vigilis_YV,plants,34.4093,-116.9808
+Leavitt 2007,91,DHL96,"USA: California, San Bernardino Co.; Lucerne Valley, Emerald Road; N 34.004, W 116.9308",EU129922,Yucca Valley,vigilis_YV,plants,34.004,-116.9308
+Leavitt 2007,91,DHL97,"USA: California, San Bernardino Co.; Lucerne Valley, Emerald Road; N 34.004, W 116.9308",EU129923,Yucca Valley,vigilis_YV,plants,34.004,-116.9308
+Leavitt 2007,97,DHL98,"USA: California, San Bernardino Co.; NE of Ord Mt.; N 34.6977, W 116.7673",EU129933,Yucca Valley,vigilis_YV,plants,34.6977,-116.7673
+Leavitt 2007,97,DHL99,"USA: California, San Bernardino Co.; NE of Ord Mt.; N 34.6977, W 116.7673",EU129934,Yucca Valley,vigilis_YV,plants,34.6977,-116.7673
+Leavitt 2007,121,DHL140,"USA: California, Riverside Co.; Dunkel Spring; N 33.8979, W 116.7466",EU129900,San Jacinto,vigilis_SJ,plants,33.8979,-116.7466
+Leavitt 2007,116,BYU48014,"SUSA: California, Riverside Co.; Snow Creek; N 33.8984, W 116.6795",EU129897,San Jacinto,vigilis_SJ,plants,33.8984,-116.6795
+Noonan et al 2013,gilberti ZJ2,ENEPI 7701,Mexico: Baja California Sur: Victoria,EU116621,gilberti,gilberti,plants,24.03839,-110.37176
+Sinclair et al 2004,73,ENEPI 7701,"Victoria, Mexico: Baja California Sur",AY584346,v. wigginsi,gilberti,plants,24.03839,-110.37176
+Leavitt 2007,NA,ENEPI 7701,Mexico: Baja California Sur; Victoria,EU129463,X. gilberti,gilberti,plants,24.03839,-110.37176
+Leavitt 2007,116,BYU48015,"SUSA: California, Riverside Co.; Snow Creek; N 33.8984, W 116.6795",EU129901,San Jacinto,vigilis_SJ,plants,33.8984,-116.6795
+Leavitt 2007,117,BYU48010,"USA: California, Riverside Co.; Whitewater South; N 33.9073, W 116.442",EU129893,San Jacinto,vigilis_SJ,plants,33.9073,-116.442
+Leavitt 2007,117,BYU48011,"USA: California, Riverside Co.; Whitewater South; N 33.9073, W 116.442",EU129894,San Jacinto,vigilis_SJ,plants,33.9073,-116.442
+Leavitt 2007,117,BYU48012,"USA: California, Riverside Co.; Whitewater South; N 33.9073, W 116.442",EU129895,San Jacinto,vigilis_SJ,plants,33.9073,-116.442
+Leavitt 2007,117,BYU48013,"USA: California, Riverside Co.; Whitewater South; N 33.9073, W 116.442",EU129896,San Jacinto,vigilis_SJ,plants,33.9073,-116.442
+Leavitt 2007,117,DHL23,"USA: California, Riverside Co.; Whitewater South; N 33.9073, W 116.442",EU129892,San Jacinto,vigilis_SJ,plants,33.9073,-116.442
+Noonan et al 2013,jaycolei  ZN2,ENEPI 7705,MX: Sonora: Desemboque,EU116641,jaycolei,jaycolei,plants,30.57197026,-113.0003113
+Sinclair et al 2004,63,ENEPI 7705,"Desemboque, Mexico: Sonora",AY584359,v. vigilis,jaycolei,plants,30.57197026,-113.0003113
+Leavitt 2007,155,ENEPI 7705,"Mexico: Sonora; Desemboque; N 29.5185, W 112.3613",EU129507,X. sonora,jaycolei,plants,29.5185,-112.3613
+Leavitt 2007,120,BYU48026,"USA: California, Riverside Co.; Cabazon East; N 33.9245, W 116.7543",EU129890,San Jacinto,vigilis_SJ,plants,33.9245,-116.7543
+Leavitt 2007,120,BYU48027,"USA: California, Riverside Co.; Cabazon East; N 33.9245, W 116.7543",EU129870,San Jacinto,vigilis_SJ,plants,33.9245,-116.7543
+Sinclair et al 2004,71,ENEPI 7707,"Juanico, Mexico: Baja California Sur",AY584349,v. wigginsi,sherbrookei,plants,26.25672267,-112.4814607
+Noonan et al 2013,sherbrookei XY1,ENEPI 7707,Mexico: Baja California Sur: La Poza Grande,EU116625,sherbrookei,sherbrookei,plants,26.25672267,-112.4814607
+Leavitt 2007,120,BYU48028,"USA: California, Riverside Co.; Cabazon East; N 33.9245, W 116.7543",EU129891,San Jacinto,vigilis_SJ,plants,33.9245,-116.7543
+Sinclair et al 2004,76,LACM 151494,"Whitewater, U.S.A.: California",AY584352,v. vigilis,vigilis_SJ,plants,33.92615194,-116.6348289
+Sinclair et al 2004,72,ENEPI 7709,"Poza, Mexico: Baja California Sur",AY584345,v. wigginsi,sherbrookei,plants,32.49282577,-116.960542
+Noonan et al 2013,sherbrookei ZF2,ENEPI 7709,Mexico: Baja California Sur: La Poza Grande,EU116626,sherbrookei,sherbrookei,plants,32.49282577,-116.960542
+Leavitt 2007,NA,ENEPI 7709,Mexico: Baja California Sur; Poza,EU129462,X. magdalena,sherbrookei,plants,32.49282577,-116.960542
+Leavitt 2007,118,RLB6672,"USA: California, Riverside Co.; Whitewater North; N 33.9267, W 116.712",EU129887,San Jacinto,vigilis_SJ,plants,33.9267,-116.712
+Leavitt 2007,119,BYU46701,"USA: California, Riverside Co.; Cabazon Dinosaurs; N 33.9403, W 116.7819",EU129888,San Jacinto,vigilis_SJ,plants,33.9403,-116.7819
+Leavitt 2007,119,BYU46702,"USA: California, Riverside Co.; Cabazon Dinosaurs; N 33.9403, W 116.7819",EU129889,San Jacinto,vigilis_SJ,plants,33.9403,-116.7819
+Leavitt 2007,115,BYU48016,"USA: California, Riverside Co.; Mission Creek Road.; N 33.9968, W 116.5995",EU129902,San Jacinto,vigilis_SJ,plants,33.9968,-116.5995
+Leavitt 2007,115,BYU48017,"USA: California, Riverside Co.; Mission Creek Road.; N 33.9968, W 116.5995",EU129898,San Jacinto,vigilis_SJ,plants,33.9968,-116.5995
+Leavitt 2007,114,BYU48018,"USA: California, San Bernardino Co.; Morongo Valley; N 34.0946, W 116.5109",EU129884,San Jacinto,vigilis_SJ,plants,34.0946,-116.5109
+Noonan et al 2013,riversiana 5502,GF 5502,USA: California: Santa Barbara Is.,EU129465,riversiana,riversiana,plants,33.47626548,-119.0365512
+Noonan et al 2013,riversiana 5510,GF 5510,USA: California: Santa Barbara Is.,EU129466,riversiana,riversiana,plants,33.47626548,-119.0365512
+Leavitt 2007,12,JWS1669,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129792,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,JWS1674,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129783,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,JWS1676,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129793,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Noonan et al 2013,vigilis 1095,KU 220088,USA: California: Hard  Luck,EU116663,vigilis,vigilis_KCAV,plants,34.68747,-118.85265
+Noonan et al 2013,vigilis 1096,KU 220089,USA: California: Hard Luck,EU116664,vigilis,vigilis_KCAV,plants,34.68747,-118.85265
+Noonan et al 2013,vigilis 1097,KU 220090,USA: California: Hard Luck,EU116665,vigilis,vigilis_KCAV,plants,34.68747,-118.85265
+Noonan et al 2013,riversiana Xri5221,LACM 125513,USA: California: San Nicolas Is.,EU129464,riversiana,riversiana,plants,33.223,-119.472
+Sinclair et al 2004,83,LACM 125513,"San Nicolas Island, U.S.A.: California",AY584360,riversiana,riversiana,plants,33.223,-119.472
+Sinclair et al 2004,45,LACM 129863,"Alpine Butte, U.S.A.: California",AY584276,v. vigilis,vigilis_KCAV,Rocks/plants,34.6322395,-117.8948407
+Sinclair et al 2004,59,LACM 129865,"Rancheria Road, U.S.A.: California",AY584255,v. sierrae,sierra,Rocks,35.4585203,-118.8267202
+Noonan et al 2013,sierrae TC43,LACM 129865,USA: California: Rancheria Rd.,EU129854,sierrae,sierra,rocks,35.4585203,-118.8267202
+Sinclair et al 2004,57,LACM 129870,"Kern River (Isabella), U.S.A.: California",AY584254,v. vigilis,vigilis_KCAV,plants,35.6311735,-118.4965871
+Sinclair et al 2004,56,LACM 129872,"Breckenridge, U.S.A.: California",AY584258,v. vigilis,vigilis_KCAV,plants,35.4543923,-118.6215136
+Sinclair et al 2004,51,LACM 129875,"Tehachapi, U.S.A.: California",AY584257,v. vigilis,vigilis_KCAV,plants,35.2250811,-118.1780902
+Sinclair et al 2004,58,LACM 129876,"Greenhorn Creek, U.S.A.: California",AY584256,v. vigilis,vigilis_KCAV,plants,35.2250811,-118.1780902
+Sinclair et al 2004,55,LACM 129880,"Kern River (Tulare County), U.S.A.: California",AY584262,v. vigilis,vigilis_KCAV,plants,35.84163,-118.44899
+Sinclair et al 2004,48,LACM 129882,"Fairview, U.S.A.: California",AY584253,v. vigilis,vigilis_KCAV,plants,35.9455,-118.47731
+Sinclair et al 2004,79,LACM 134060,"Short Canyon, U.S.A.: California",AY584261,v. vigilis,vigilis_OV,plants,35.74711,-117.81257
+Sinclair et al 2004,3,LACM 134481,"Sutton’s Summit, U.S.A.: Arizona",AY584277,v. arizonae,bezyi,Rocks,33.34302997,-110.9700962
+Noonan et al 2013,bezyi 5321,LACM 134486,USA: Arizona: Sutton’s Summit,EU116613,bezyi,bezyi,rocks,33.34302997,-110.9700962
+Sinclair et al 2004,3,LACM 134486,"Sutton’s Summit, U.S.A.: Arizona",AY584278,v. arizonae,bezyi,Rocks,33.34302997,-110.9700962
+Noonan et al 2013,bezyi 5332,LACM 134498,USA: Arizona: Sunflower (1.3S),EU116616,bezyi,bezyi,rocks,33.8453445,-111.4676323
+Sinclair et al 2004,9,LACM 134498,"Sunflower (1.3 S), U.S.A.: Arizona",AY584279,v. arizonae,bezyi,Rocks,33.8453445,-111.4676323
+Sinclair et al 2004,9,LACM 134507,"Sunflower (1.3 S), U.S.A.: Arizona",AY584280,v. arizonae,bezyi,Rocks,33.8453265,-111.4683151
+Sinclair et al 2004,11,LACM 134509,"Yarnell, U.S.A.: Arizona",AY584281,v. arizonae,arizonae,Rocks,34.2260677,-112.7430725
+Sinclair et al 2004,11,LACM 134521,"Yarnell, U.S.A.: Arizona",AY584282,v. arizonae,arizonae,Rocks,34.2260677,-112.7430725
+Sinclair et al 2004,11,LACM 134528,"Yarnell, U.S.A.: Arizona",AY584283,v. arizonae,arizonae,Rocks,34.22193653,-112.7471243
+Leavitt 2007,75,RLB5410,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129540,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5413,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129541,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5414,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129542,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Sinclair et al 2004,61,LACM 134554,"Granite Station, U.S.A.: California",AY584287,v. sierrae,sierra,Rocks,35.6137373,-118.8583882
+Sinclair et al 2004,61,LACM 134557,"Granite Station, U.S.A.: California",AY584288,v. sierrae,sierra,Rocks,35.6137373,-118.8583882
+Noonan et al 2013,sierrae 5389,LACM 134557,USA: California: Granite Station,EU116640,sierrae,sierra,rocks,35.6137373,-118.8583882
+Sinclair et al 2004,61,LACM 134564,"Granite Station, U.S.A.: California",AY584289,v. sierrae,sierra,Rocks,35.6137373,-118.8583882
+Sinclair et al 2004,54,LACM 134575,"Kennedy Meadows, U.S.A.: California",AY584263,v. vigilis,vigilis_KCAV,plants,36.02064,-118.12466
+Leavitt 2007,75,RLB5772,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129543,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5775,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129544,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5776,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129545,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB5780,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129546,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6247,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129547,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Noonan et al 2013,vigilis 5459,LACM 135228,USA: Utah: Castle  Cliff,EU116651,vigilis,vigilis_KCAV,plants,37.066,-113.88584
+Leavitt 2007,75,RLB6249,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129548,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Sinclair et al 2004,50,LACM 135374,"Red Rock Canyon, U.S.A.: California",AY584265,v. vigilis,vigilis_KCAV,plants,35.32559048,-117.948436
+Leavitt 2007,75,RLB6250,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129549,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6251,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129550,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Noonan et al 2013,henshawi Xhe5581,LACM 136781,USA: California: Banning,EU129458,henshawi,henshawi_3,rocks,33.89723,-116.86053
+Sinclair et al 2004,43,LACM 136812,"Hesperia, U.S.A.: California",AY584271,v. vigilis,vigilis_KCAV,plants,34.4310119,-117.3001276
+Sinclair et al 2004,47,LACM 137433,"Palmdale, U.S.A.: California",AY584297,v. vigilis,vigilis_KCAV,plants,34.6017522,-118.1202538
+Sinclair et al 2004,52,LACM 137437,"Lockwood Valley, U.S.A.: California",AY584298,v. vigilis,vigilis_KCAV,plants,34.78299,-119.04547
+Sinclair et al 2004,44,LACM 138253,"Phelan, U.S.A.: California",AY584266,v. vigilis,vigilis_KCAV,plants,34.49944,-117.64197
+Noonan et al 2013,arizonae 5766,LACM 138270,USA: Arizona: Date Creek Mts.,EU129469,arizonae,arizonae,rocks,34.2261307,-112.9272549
+Noonan et al 2013,arizonae 5771,LACM 138275,USA: Arizona: Date Creek Mts.,EU116608,arizonae,arizonae,rocks,34.2261307,-112.9272549
+Sinclair et al 2004,12,LACM 138275,"Date Creek Mountains, U.S.A.: Arizona",AY584299,v. arizonae,arizonae,Rocks,34.2261307,-112.9272549
+Noonan et al 2013,arizonae 5788,LACM 138292,USA: Arizona: Hillside (2.1N),EU116609,arizonae,arizonae,rocks,34.441409,-112.903006
+Leavitt 2007,75,RLB6252,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129551,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6253,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129552,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6254,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129553,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6255,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129554,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Leavitt 2007,75,RLB6257,"USA: Arizona, Mohave Co.; Nothing 1; N 34.4667, W 113.3333",EU129569,X. vigilis,vigilis_EM,plants,34.4667,-113.3333
+Sinclair et al 2004,25,LACM 145170,"Poachie Mountains, U.S.A.: Arizona",AY584332,v. vigilis,vigilis_EM,plants,34.4741667,-113.4818333
+Leavitt 2007,76,BYU48007,"USA: Arizona, Mohave Co.; Nothing 2; N 34.4766, W 113.3447",EU129555,X. vigilis,vigilis_EM,plants,34.4766,-113.3447
+Leavitt 2007,76,BYU48008,"USA: Arizona, Mohave Co.; Nothing 2; N 34.4766, W 113.3447",EU129556,X. vigilis,vigilis_EM,plants,34.4766,-113.3447
+Leavitt 2007,76,BYU48809,"USA: Arizona, Mohave Co.; Nothing 2; N 34.4766, W 113.3447",EU129557,X. vigilis,vigilis_EM,plants,34.4766,-113.3447
+Noonan et al 2013,arizonae 5828,LACM 138847,USA: Arizona: Stanton,EU129477,arizonae,arizonae,rocks,34.16612064,-112.7294305
+Sinclair et al 2004,10,LACM 138847,"Stanton, U.S.A.: Arizona",AY584305,v. arizonae,arizonae,Rocks,34.16612064,-112.7294305
+Leavitt 2007,76,DHL4,"USA: Arizona, Mohave Co.; Nothing 2; N 34.4766, W 113.3447",EU129558,X. vigilis,vigilis_EM,plants,34.4766,-113.3447
+Sinclair et al 2004,23,LACM 135185,"Nothing, U.S.A.: Arizona",AY584290,v. vigilis,vigilis_EM,plants,34.48107495,-113.3337809
+Leavitt 2007,74,6124,"USA: Arizona, Mohave Co.; Poachie Mts.; N 34.4833, W 113.4833",EU129581,X. vigilis,vigilis_EM,plants,34.4833,-113.4833
+Leavitt 2007,74,6125,"USA: Arizona, Mohave Co.; Poachie Mts.; N 34.4833, W 113.4833",EU129575,X. vigilis,vigilis_EM,plants,34.4833,-113.4833
+Leavitt 2007,74,6129,"USA: Arizona, Mohave Co.; Poachie Mts.; N 34.4833, W 113.4833",EU129582,X. vigilis,vigilis_EM,plants,34.4833,-113.4833
+Leavitt 2007,74,6135,"USA: Arizona, Mohave Co.; Poachie Mts.; N 34.4833, W 113.4833",EU129576,X. vigilis,vigilis_EM,plants,34.4833,-113.4833
+Leavitt 2007,74,6140,"USA: Arizona, Mohave Co.; Poachie Mts.; N 34.4833, W 113.4833",EU129577,X. vigilis,vigilis_EM,plants,34.4833,-113.4833
+Leavitt 2007,78,RLB5794,"USA: Arizona, Yavapai Co.; Water Peak; N 34.5333, W 113.2167",EU129564,X. vigilis,vigilis_EM,plants,34.5333,-113.2167
+Leavitt 2007,78,RLB5795,"USA: Arizona, Yavapai Co.; Water Peak; N 34.5333, W 113.2167",EU129565,X. vigilis,vigilis_EM,plants,34.5333,-113.2167
+Noonan et al 2013,arizonae 5953,LACM 139955,USA: Arizona: Mule Shoe,EU116610,arizonae,arizonae,rocks,34.47270985,-112.8906766
+Sinclair et al 2004,14,LACM 139955,"Mule Shoe, U.S.A.: Arizona",AY584313,v. arizonae,arizonae,Rocks,34.47270985,-112.8906766
+Noonan et al 2013,arizonae 5954,LACM 139956,USA: Arizona: Mule Shoe,EU116611,arizonae,arizonae,rocks,35.93166,-111.69737
+Sinclair et al 2004,14,LACM 139958,"Mule Shoe, U.S.A.: Arizona",AY584314,v. arizonae,arizonae,Rocks,35.93166,-111.69737
+Sinclair et al 2004,6,LACM 139961,"Blackbush Ranch, U.S.A.: Arizona",AY584316,v. arizonae,bezyi,Rocks/plants,33.67166372,-111.1615373
+Sinclair et al 2004,5,LACM 139963,"Pinon Camp, U.S.A.: Arizona",AY584317,v. arizonae,bezyi,Rocks,33.42338,-111.37124
+Sinclair et al 2004,60,LACM 145078,"Bishop, U.S.A.: California",AY584267,v. vigilis,vigilis_OV,plants,37.32517,-118.53443
+Leavitt 2007,114,DHL29,"USA: California, San Bernardino Co.; Morongo Valley; N 34.0946, W 116.5109",EU129885,San Jacinto,vigilis_SJ,plants,34.0946,-116.5109
+Leavitt 2007,113,DHL118,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129878,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Leavitt 2007,113,DHL119,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129879,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Sinclair et al 2004,49,LACM 145086,"Mojave, U.S.A.: California",AY584328,v. vigilis,vigilis_KCAV,plants,35.0511682,-118.1998042
+Noonan et al 2013,vigilis 6088,LACM 145086,USA: California: Mojave,EU129771,vigilis,vigilis_KCAV,plants,35.0511682,-118.1998042
+Sinclair et al 2004,49,LACM 145089,"Mojave, U.S.A.: California",AY584329,v. vigilis,vigilis_KCAV,plants,35.0511682,-118.1998042
+Noonan et al 2013,bezyi 6102,LACM 145111,USA: Arizona: Oak Flat,EU129516,bezyi,bezyi,rocks,33.30900753,-111.0470619
+Sinclair et al 2004,4,LACM 145111,"Oak Flat, U.S.A.: Arizona",AY584331,v. arizonae,bezyi,Rocks,33.30900753,-111.0470619
+Sinclair et al 2004,13,LACM 145119,"Hillside (4.0 W), U.S.A.: Arizona",AY584330,v. arizonae,arizonae,Rocks,34.41920544,-112.9170438
+Sinclair et al 2004,8,LACM 145120,"Sunflower (13.5 S), U.S.A.: Arizona",AY584318,v. arizonae,bezyi,Rocks,33.689694,-111.501341
+Noonan et al 2013,vigilis 5878,LACM 139926,USA: Arizona: Bagdad (2.6 NE),EU129561,vigilis,vigilis_EM,plants,34.57713793,-113.172262
+Sinclair et al 2004,21b,LACM 138298,"Water Peak, U.S.A.: Arizona",AY584300,v. vigilis,vigilis_EM,plants,34.5948,-113.16889
+Sinclair et al 2004,21a,LACM 139927,"Bagdad (2.6 NE), U.S.A.: Arizona",AY584315,v. vigilis,vigilis_EM,plants,34.5948,-113.16889
+Leavitt 2007,77,RLB5891,"USA: Arizona, Mohave Co.; Red Knob; N 34.6, W 113.4",EU129566,X. vigilis,vigilis_EM,plants,34.6,-113.4
+Leavitt 2007,77,RLB5895,"USA: Arizona, Mohave Co.; Red Knob; N 34.6, W 113.4",EU129559,X. vigilis,vigilis_EM,plants,34.6,-113.4
+Leavitt 2007,77,RLB5896,"USA: Arizona, Mohave Co.; Red Knob; N 34.6, W 113.4",EU129560,X. vigilis,vigilis_EM,plants,34.6,-113.4
+Leavitt 2007,77,RLB5897,"USA: Arizona, Mohave Co.; Red Knob; N 34.6, W 113.4",EU129568,X. vigilis,vigilis_EM,plants,34.6,-113.4
+Leavitt 2007,79,RLB5970,"USA: Arizona, Yavapai Co.; Bagdad (2.6 NE); N 34.6, W 113.15",EU129562,X. vigilis,vigilis_EM,plants,34.6,-113.15
+Noonan et al 2013,arizonae 6172,LACM 145197,USA: Arizona: Grayback Mtn. (4.2),EU129496,arizonae,arizonae,rocks,34.4025,-112.989
+Sinclair et al 2004,15,LACM 145197,"Grayback Mountain (4.2), U.S.A.: Arizona",AY584334,v. arizonae,arizonae,Rocks,34.4025,-112.989
+Leavitt 2007,48,DHL79,"USA: California, San Bernardino Co.; Old Woman Mts.; N 34.6154, W 115.1826",EU129630,X. vigilis,vigilis_EM,plants,34.6154,-115.1826
+Leavitt 2007,48,DHL80,"USA: California, San Bernardino Co.; Old Woman Mts.; N 34.6154, W 115.1826",EU129631,X. vigilis,vigilis_EM,plants,34.6154,-115.1826
+Leavitt 2007,48,DHL81,"USA: California, San Bernardino Co.; Old Woman Mts.; N 34.6154, W 115.1826",EU129632,X. vigilis,vigilis_EM,plants,34.6154,-115.1826
+Noonan et al 2013,bezyi 6076,LACM 145224,USA: Arizona: Four Peaks,EU116615,bezyi,bezyi,rocks,33.68564035,-111.3210524
+Sinclair et al 2004,7,LACM 145224,"Four Peaks, U.S.A.: Arizona",AY584326,v. arizonae,bezyi,Rocks,33.68564035,-111.3210524
+Sinclair et al 2004,7,LACM 145229,"Four Peaks, U.S.A.: Arizona",AY584327,v. arizonae,bezyi,Rocks,33.68564035,-111.3210524
+Sinclair et al 2004,43,LACM 147513,"Hesperia, U.S.A.: California",AY584296,v. vigilis,vigilis_KCAV,plants,34.4310119,-117.3001276
+Sinclair et al 2004,1a,LACM 151484,"Pedricena, Mexico: Durango",AY584338,v. extorris,extorris,plants,25.12103754,-103.7908358
+Sinclair et al 2004,1a,LACM 151485,"Pedricena, Mexico: Durango",AY584339,v. extorris,extorris,plants,25.12103754,-103.7908358
+Sinclair et al 2004,1a,LACM 151486,"Pedricena, Mexico: Durango",AY584340,v. extorris,extorris,plants,25.12103754,-103.7908358
+Noonan et al 2013,vigilis 5892,LACM 139931,USA: Arizona: Red Knob,EU129567,vigilis,vigilis_EM,plants,34.6238562,-113.3993373
+Leavitt 2007,80,RLB6101,"USA: Arizona, Yavapai Co.; Bagdad (4.3 NE); N 34.6243, W 113.1233",EU129563,X. vigilis,vigilis_EM,plants,34.6243,-113.1233
+Leavitt 2007,72,RLB5802,"USA: Arizona, Mohave Co.; Wikiup; N 34.6833, W 113.6833",EU129603,X. vigilis,vigilis_EM,plants,34.6833,-113.6833
+Leavitt 2007,113,DHL120,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129880,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Leavitt 2007,113,DHL121,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129881,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Leavitt 2007,113,DHL122,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129883,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Sinclair et al 2004,77,LACM 151496,"Yucca Valley, U.S.A.: California",AY584353,v. vigilis,vigilis_YV,plants,34.11417,-116.43224
+Noonan et al 2013,'Yucca Valley' 6674,LACM 151496,USA: California: Yucca Valley,EU116673,NA,vigilis_YV,plants,34.11417,-116.43224
+Sinclair et al 2004,78,LACM 151497,"Freeman Canyon, U.S.A.: California",AY584354,v. vigilis,vigilis_OV,plants,34.71160375,-118.8093589
+Sinclair et al 2004,79,LACM 151501,"Short Canyon, U.S.A.: California",AY584355,v. vigilis,vigilis_OV,plants,35.70842932,-117.8772645
+Sinclair et al 2004,81,LACM 151502,"Panoche, U.S.A.: California",AY584357,v. vigilis,vigilis_PP,plants,36.59788985,-120.8289911
+Sinclair et al 2004,81,LACM 151503,"Panoche, U.S.A.: California",AY584358,v. vigilis,vigilis_PP,plants,36.59788985,-120.8289911
+Sinclair et al 2004,46,LACM 151504,"Little Rock, U.S.A.: California",AY584264,v. vigilis,vigilis_KCAV,plants,34.52089325,-117.9818028
+Noonan et al 2013,vigilis 6721,LACM 151504,USA: California: Panoche,EU129843,vigilis,vigilis_KCAV,plants,34.52089325,-117.9818028
+Lovich et al 2001,LACM125513,LACM125513,NA,M65122,riversiana,riversiana,plants,33.223,-119.472
+Lovich et al 2001,LACM136813,LACM136813,NA,M65123,vigilis,vigilis_KCAV,NA,34.4310119,-117.3001276
+Lovich et al 2001,LACM138478,LACM138478,"Durango, Mexico",M65120,bolsonae,bolsonae,rocks,25.17,-103.73
+Sinclair et al 2004,82,MZFC 4759,"Moyahua, Mexico: Zacatecas",AY584362,sanchezi,sanchezi,plants,21.26693679,-103.1663192
+Noonan et al 2013,sanchezi 371,MZFC 4761,Mexico: Zacatecas: Moyahua,EU116637,sanchezi,sanchezi,plants,21.26457026,-103.1651871
+Noonan et al 2013,sanchezi 373,MZFC 4762,Mexico: Zacatecas: Moyahua,EU116638,sanchezi,sanchezi,plants,21.26457026,-103.1651871
+Sinclair et al 2004,82,MZFC 4762,"Moyahua, Mexico: Zacatecas",AY584363,sanchezi,sanchezi,plants,21.26457026,-103.1651871
+Sinclair et al 2004,1a,MZFC 4764,"Pedricena, Mexico: Durango",AY584259,v. extorris,extorris,plants,25.12120542,-103.7927145
+Noonan et al 2013,extorris OFV 339,MZFC 4764,Mexico: Durango: Pedricena,EU116619,extorris,extorris,plants,25.12120542,-103.7927145
+Leavitt 2007,NA,MZFC 4764,Mexico: Durango; Pedricena,EU129460,X. extorris,extorris,plants,25.12120542,-103.7927145
+Sinclair et al 2004,1a,MZFC 4766,"Pedricena, Mexico: Durango",AY584260,v. extorris,extorris,plants,25.12103754,-103.7908358
+Noonan et al 2013,extorris OFV 341,MZFC 4766,Mexico: Durango: Pedricena,EU116620,extorris,extorris,plants,25.12103754,-103.7908358
+Noonan et al 2013,bolsonae OFV346,MZFC 4771,Mexico: Durango: Pedricena,EU129461,bolsonae,bolsonae,rocks,25.12120542,-103.7927145
+Sinclair et al 2004,1b,MZFC 4771,"Pedricena, Mexico: Durango",AY584361,bolsonae,bolsonae,Rocks,25.12120542,-103.7927145
+Leavitt 2007,NA,MZFC 4771,Mexico: Durango; Pedricena,EU129461,X. bolsonae,bolsonae,rocks,25.12120542,-103.7927145
+Noonan et al 2013,bolsonae OFV347,MZFC 4772,Mexico: Durango: Pedricena,EU116618,bolsonae,bolsonae,rocks,25.12103754,-103.7908358
+Lovich et al 2001,NA,NA,California,M65121,henshawi,henshawi_3,rocks,NA,NA
+Sinclair et al 2004,23,NA,"Nothing, U.S.A.: Arizona",AY584335,v. vigilis,NA,plants,NA,NA
+Sinclair et al 2004,23,NA,"Nothing, U.S.A.: Arizona",AY584336,v. vigilis,NA,plants,NA,NA
+Lovich et al 2001,NA,NA,"Phelan High School, San Bernandino, CA",AF313372,vigilis,NA,NA,NA,NA
+Leavitt 2007,NA,RLB-CS5502,"USA: California, Santa Barbara Co.; Santa Barbara Island",EU129465,X. riversiana,riversiana,plants,33.47626548,-119.0365512
+Leavitt 2007,NA,RLB-CS5510,"USA: California, Santa Barbara Co.; Santa Barbara Island",EU129466,X. riversiana,riversiana,plants,33.47626548,-119.0365512
+Leavitt 2007,137,RLB-KC1169,"USA: Arizona, Yavapai Co.; Alvarado Mine; N 34.1934, W 112.7771",EU129474,X. arizonae,arizonae,rocks,34.1934,-112.7771
+Leavitt 2007,147,RLB-KC1170,"USA: Arizona, Pinal Co.; Galiuro Zapata; N 32.844, W 110.5387",EU129508,X. bezyi,bezyi,rocks,32.844,-110.5387
+Leavitt 2007,147,RLB-KC1171,"USA: Arizona, Pinal Co.; Galiuro Zapata; N 32.844, W 110.5387",EU129509,X. bezyi,bezyi,rocks,32.844,-110.5387
+Leavitt 2007,146,RLB-KC1172,"USA: Arizona, Pinal Co.; Galiuro Table; N 32.85284, W 110.5046",EU129510,X. bezyi,bezyi,rocks,32.85284,-110.5046
+Leavitt 2007,72,RLB5807,"USA: Arizona, Mohave Co.; Wikiup; N 34.6833, W 113.6833",EU129605,X. vigilis,vigilis_EM,plants,34.6833,-113.6833
+Leavitt 2007,72,RLB5809,"USA: Arizona, Mohave Co.; Wikiup; N 34.6833, W 113.6833",EU129604,X. vigilis,vigilis_EM,plants,34.6833,-113.6833
+Leavitt 2007,72,RLB5812,"USA: Arizona, Mohave Co.; Wikiup; N 34.6833, W 113.6833",EU129606,X. vigilis,vigilis_EM,plants,34.6833,-113.6833
+Leavitt 2007,28,RLB-TC36,"USA: California, Tulare Co.; Fairview; N 35.9167, W 118.5",EU129735,X. vigilis,vigilis_KCAV,plants,35.9167,-118.5
+Leavitt 2007,28,RLB-TC37,"USA: California, Tulare Co.; Fairview; N 35.9167, W 118.5",EU129736,X. vigilis,vigilis_KCAV,plants,35.9167,-118.5
+Leavitt 2007,21,RLB-TC38,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",EU129757,X. vigilis,vigilis_KCAV,plants,35.23333,-118.1667
+Leavitt 2007,37,RLB-TC383,"USA: California, Kern Co.; Inyokern; N 35.7108, W 117.8942",EU129840,X. vigilis,vigilis_OV,plants,35.7108,-117.8942
+Leavitt 2007,71,RLB5862,"USA: Arizona, Mohave Co.; Hualapai Mts. SW; N 34.6833, W 113.9",EU129571,X. vigilis,vigilis_EM,plants,34.6833,-113.9
+Leavitt 2007,21,RLB-TC39,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",EU129772,X. vigilis,vigilis_KCAV,plants,35.23333,-118.1667
+Leavitt 2007,26,RLB-TC40,"USA: California, Kern Co.; Kern R. (Isabella); N 35.6167, W 118.5",EU129723,X. vigilis,vigilis_KCAV,plants,35.6167,-118.5
+Leavitt 2007,26,RLB-TC41,"USA: California, Kern Co.; Kern R. (Isabella); N 35.6167, W 118.5",EU129724,X. vigilis,vigilis_KCAV,plants,35.6167,-118.5
+Leavitt 2007,85,RLB-TC42,"USA: California, Kern Co.; Rancheria Road.; N 35.4667, W 118.8333",EU129853,X. sierrae,sierra,rocks,35.4667,-118.8333
+Leavitt 2007,85,RLB-TC43,"USA: California, Kern Co.; Rancheria Road.; N 35.4667, W 118.8333",EU129854,X. sierrae,sierra,rocks,35.4667,-118.8333
+Leavitt 2007,85,RLB-TC44,"USA: California, Kern Co.; Rancheria Road.; N 35.4667, W 118.8333",EU129855,X. sierrae,sierra,rocks,35.4667,-118.8333
+Leavitt 2007,24,RLB-TC45,"USA: California, Kern Co.; Greenhorn Creek; N 35.5667, W 118.5833",EU129731,X. vigilis,vigilis_KCAV,plants,35.5667,-118.5833
+Leavitt 2007,24,RLB-TC46,"USA: California, Kern Co.; Greenhorn Creek; N 35.5667, W 118.5833",EU129732,X. vigilis,vigilis_KCAV,plants,35.5667,-118.5833
+Leavitt 2007,21,RLB-TC47,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",NA,X. vigilis,NA,plants,35.23333,-118.1667
+Leavitt 2007,21,RLB-TC48,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",EU129753,X. vigilis,vigilis_KCAV,plants,35.23333,-118.1667
+Leavitt 2007,21,RLB-TC49,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",EU129751,X. vigilis,vigilis_KCAV,plants,35.23333,-118.1667
+Leavitt 2007,21,RLB-TC50,"USA: California, Kern Co.; Tehachapi Mts.; N 35.23333, W 1118.1667",EU129759,X. vigilis,vigilis_KCAV,plants,35.23333,-118.1667
+Leavitt 2007,23,RLB-TC51,"USA: California, Kern Co.; Breckenridge; N 35.4333, W 118.7333",EU129778,X. vigilis,vigilis_KCAV,plants,35.4333,-118.7333
+Leavitt 2007,30,RLB-TC510,"USA: California, Tulare Co.; Kern River; N 35.9333, W 118.1667",EU129739,X. vigilis,vigilis_KCAV,plants,35.9333,-118.1667
+Leavitt 2007,30,RLB-TC511,"USA: California, Tulare Co.; Kern River; N 35.9333, W 118.1667",EU129740,X. vigilis,vigilis_KCAV,plants,35.9333,-118.1667
+Leavitt 2007,29,RLB-TC512,"USA: California, Tulare Co.; Kennedy Meadows; N 36.0167, W 118.1333",EU129741,X. vigilis,vigilis_KCAV,plants,36.0167,-118.1333
+Leavitt 2007,29,RLB-TC513,"USA: California, Tulare Co.; Kennedy Meadows; N 36.0167, W 118.1333",EU129742,X. vigilis,vigilis_KCAV,plants,36.0167,-118.1333
+Leavitt 2007,29,RLB-TC514,"USA: California, Tulare Co.; Kennedy Meadows; N 36.0167, W 118.1333",EU129729,X. vigilis,vigilis_KCAV,plants,36.0167,-118.1333
+Leavitt 2007,29,RLB-TC515,"USA: California, Tulare Co.; Kennedy Meadows; N 36.0167, W 118.1333",EU129743,X. vigilis,vigilis_KCAV,plants,36.0167,-118.1333
+Leavitt 2007,16,RLB-TC536,"USA: California, Los Angeles Co.; Little Rock; N 34.5167, W 117.9833",EU129780,X. vigilis,vigilis_KCAV,plants,34.5167,-117.9833
+Leavitt 2007,16,RLB-TC537,"USA: California, Los Angeles Co.; Little Rock; N 34.5167, W 117.9833",EU129781,X. vigilis,vigilis_KCAV,plants,34.5167,-117.9833
+Leavitt 2007,16,RLB-TC538,"USA: California, Los Angeles Co.; Little Rock; N 34.5167, W 117.9833",EU129782,X. vigilis,vigilis_KCAV,plants,34.5167,-117.9833
+Leavitt 2007,22,RLB-TC550,"USA: California, Kern Co.; Red Rock Canyon; N 35.3667, W 117.9833",NA,X. vigilis,NA,plants,35.3667,-117.9833
+Lovich et al 2001,ABDSP-SRC 625-2-01-625-2-02,ABDSP-SRC 625-2-01-625-2-02,"California, San Diego, ABDSP",AF313373,henshawi,henshawi_1,rocks,33.10074815,-116.3010369
+Leavitt 2007,20,RLB-TC827,"USA: California, Kern Co.; Mojave; N 35.05, W 118.1667",EU129760,X. vigilis,vigilis_KCAV,plants,35.05,-118.1667
+Leavitt 2007,13,RLB-TC828,"USA: California, San Bernardino Co.; Phelan; N 34.4167, W 117.5667",EU129797,X. vigilis,vigilis_KCAV,plants,34.4167,-117.5667
+Leavitt 2007,13,RLB-TC830,"USA: California, San Bernardino Co.; Phelan; N 34.4167, W 117.5667",EU129804,X. vigilis,vigilis_KCAV,plants,34.4167,-117.5667
+Leavitt 2007,13,RLB-TC832,"USA: California, San Bernardino Co.; Phelan; N 34.4167, W 117.5667",EU129805,X. vigilis,vigilis_KCAV,plants,34.4167,-117.5667
+Leavitt 2007,13,RLB-TC833,"USA: California, San Bernardino Co.; Phelan; N 34.4167, W 117.5667",EU129798,X. vigilis,vigilis_KCAV,plants,34.4167,-117.5667
+Leavitt 2007,13,RLB-TC834,"USA: California, San Bernardino Co.; Phelan; N 34.4167, W 117.5667",EU129806,X. vigilis,vigilis_KCAV,plants,34.4167,-117.5667
+Leavitt 2007,NA,RLB-TC938,Mexico: Baja California; Todos Santos Island,EU129459,X. henshawi,henshawi_2,rocks,31.8016,-116.79117
+Leavitt 2007,39,RLB-TC939,"USA: California, Inyo Co.; Bishop; N 37.3333, W 118.5333",EU129831,X. vigilis,vigilis_OV,plants,37.3333,-118.5333
+Leavitt 2007,113,DHL123,"USA: California, San Bernardino Co.; Yucca Valley, Kickapoo; N 34.0991, W 116.4718",EU129882,San Jacinto,vigilis_SJ,plants,34.0991,-116.4718
+Leavitt 2007,112,BYU48038,"USA: California, San Bernardino Co.; Yucca Valley entrance; N 34.1112, W 116.4752",EU129876,Yucca Valley/ San Jacinto,vigilis_SJ,plants,34.1112,-116.4752
+Leavitt 2007,112,BYU48039,"USA: California, San Bernardino Co.; Yucca Valley entrance; N 34.1112, W 116.4752",EU129899,Yucca Valley/ San Jacinto,vigilis_SJ,plants,34.1112,-116.4752
+Leavitt 2007,71,RLB5863,"USA: Arizona, Mohave Co.; Hualapai Mts. SW; N 34.6833, W 113.9",EU129572,X. vigilis,vigilis_EM,plants,34.6833,-113.9
+Leavitt 2007,71,RLB5864,"USA: Arizona, Mohave Co.; Hualapai Mts. SW; N 34.6833, W 113.9",EU129573,X. vigilis,vigilis_EM,plants,34.6833,-113.9
+Leavitt 2007,71,RLB5867,"USA: Arizona, Mohave Co.; Hualapai Mts. SW; N 34.6833, W 113.9",EU129574,X. vigilis,vigilis_EM,plants,34.6833,-113.9
+Sinclair et al 2004,26,LACM 139936,"Red Knob, U.S.A.: Arizona",AY584308,v. vigilis,vigilis_EM,plants,34.70572904,-113.6055482
+Sinclair et al 2004,27,LACM 138811,"Wikieup, U.S.A.: Arizona",AY584301,v. vigilis,vigilis_EM,plants,34.70574224,-113.6091508
+Leavitt 2007,47,DHL-CW3,"USA: California, San Bernardino Co.; Granite Mts.; N 34.8199, W 115.6479",EU129641,X. vigilis,vigilis_EM,plants,34.8199,-115.6479
+Leavitt 2007,47,DHL-CW5,"USA: California, San Bernardino Co.; Granite Mts.; N 34.8199, W 115.6479",EU129645,X. vigilis,vigilis_EM,plants,34.8199,-115.6479
+Leavitt 2007,47,DHL-CW6,"USA: California, San Bernardino Co.; Granite Mts.; N 34.8199, W 115.6479",EU129642,X. vigilis,vigilis_EM,plants,34.8199,-115.6479
+Leavitt 2007,47,DHL-CW7,"USA: California, San Bernardino Co.; Granite Mts.; N 34.8199, W 115.6479",EU129643,X. vigilis,vigilis_EM,plants,34.8199,-115.6479
+Leavitt 2007,59,RLB5283.7,"USA: Arizona, Mohave Co.; Dolan Springs; N 35.5833, W 114.25",AY584275,X. vigilis,NA,plants,35.5833,-114.25
+Leavitt 2007,15,RLB5292.10,"USA: California, Los Angeles Co.; Alpine Butte; N 34.6333, W 117.9",EU129784,X. vigilis,vigilis_KCAV,plants,34.6333,-117.9
+Leavitt 2007,15,RLB5292.16,"USA: California, Los Angeles Co.; Alpine Butte; N 34.6333, W 117.9",EU129785,X. vigilis,vigilis_KCAV,plants,34.6333,-117.9
+Leavitt 2007,15,RLB5292.22,"USA: California, Los Angeles Co.; Alpine Butte; N 34.6333, W 117.9",EU129786,X. vigilis,vigilis_KCAV,plants,34.6333,-117.9
+Leavitt 2007,15,RLB5292.23,"USA: California, Los Angeles Co.; Alpine Butte; N 34.6333, W 117.9",EU129787,X. vigilis,vigilis_KCAV,plants,34.6333,-117.9
+Leavitt 2007,15,RLB5292.5,"USA: California, Los Angeles Co.; Alpine Butte; N 34.6333, W 117.9",EU129788,X. vigilis,vigilis_KCAV,plants,34.6333,-117.9
+Leavitt 2007,148,RLB5312,"USA: Arizona, Pinal Co.; Sutton's Summit; N 33.35, W 111.0167",EU129511,X. bezyi,bezyi,rocks,33.35,-111.0167
+Leavitt 2007,148,RLB5316,"USA: Arizona, Pinal Co.; Sutton's Summit; N 33.35, W 111.0167",EU129512,X. bezyi,bezyi,rocks,33.35,-111.0167
+Leavitt 2007,148,RLB5319,"USA: Arizona, Pinal Co.; Sutton's Summit; N 33.35, W 111.0167",EU129513,X. bezyi,bezyi,rocks,33.35,-111.0167
+Leavitt 2007,148,RLB5321,"USA: Arizona, Pinal Co.; Sutton's Summit; N 33.35, W 111.0167",EU129514,X. bezyi,bezyi,rocks,33.35,-111.0167
+Leavitt 2007,148,RLB5331,"USA: Arizona, Pinal Co.; Sutton's Summit; N 33.35, W 111.0167",EU129515,X. bezyi,bezyi,rocks,33.35,-111.0167
+Leavitt 2007,153,RLB5332,"USA: Arizona, Maricopa Co.; Sunflower (1.3¬†S); N 33.8667, W 111.4667",EU129529,X. bezyi,bezyi,rocks,33.8667,-111.4667
+Leavitt 2007,153,RLB5338,"USA: Arizona, Maricopa Co.; Sunflower (1.3¬†S); N 33.8667, W 111.4667",EU129530,X. bezyi,bezyi,rocks,33.8667,-111.4667
+Leavitt 2007,153,RLB5340,"USA: Arizona, Maricopa Co.; Sunflower (1.3¬†S); N 33.8667, W 111.4667",EU129531,X. bezyi,bezyi,rocks,33.8667,-111.4667
+Leavitt 2007,153,RLB5341,"USA: Arizona, Maricopa Co.; Sunflower (1.3¬†S); N 33.8667, W 111.4667",EU129532,X. bezyi,bezyi,rocks,33.8667,-111.4667
+Leavitt 2007,153,RLB5342,"USA: Arizona, Maricopa Co.; Sunflower (1.3¬†S); N 33.8667, W 111.4667",EU129533,X. bezyi,bezyi,rocks,33.8667,-111.4667
+Leavitt 2007,138,RLB5343,"USA: Arizona, Yavapai Co.; Yarnell; N 34.2167, W 112.7667",EU129473,X. arizonae,arizonae,rocks,34.2167,-112.7667
+Leavitt 2007,138,RLB5349,"USA: Arizona, Yavapai Co.; Yarnell; N 34.2167, W 112.7667",EU129475,X. arizonae,arizonae,rocks,34.2167,-112.7667
+Leavitt 2007,138,RLB5355,"USA: Arizona, Yavapai Co.; Yarnell; N 34.2167, W 112.7667",EU129467,X. arizonae,arizonae,rocks,34.2167,-112.7667
+Leavitt 2007,138,RLB5362,"USA: Arizona, Yavapai Co.; Yarnell; N 34.2167, W 112.7667",EU129476,X. arizonae,arizonae,rocks,34.2167,-112.7667
+Leavitt 2007,47,DHL-CW8,"USA: California, San Bernardino Co.; Granite Mts.; N 34.8199, W 115.6479",EU129644,X. vigilis,vigilis_EM,plants,34.8199,-115.6479
+Sinclair et al 2004,28,LACM 138827,"Hualapai Mountains SW, U.S.A.: Arizona",AY584307,v. vigilis,vigilis_EM,plants,34.90066788,-113.8773822
+Noonan et al 2013,vigilis 5847,LACM 138820,USA: Arizona: Hualapai Mts. NE,EU129585,vigilis,vigilis_EM,rocks,34.90147598,-113.8751937
+Leavitt 2007,49,DHL77,"USA: California, San Bernardino Co.; Goffs; N 34.9124, W 115.0399",EU129638,X. vigilis,vigilis_EM,plants,34.9124,-115.0399
+Leavitt 2007,49,DHL78,"USA: California, San Bernardino Co.; Goffs; N 34.9124, W 115.0399",EU129639,X. vigilis,vigilis_EM,plants,34.9124,-115.0399
+Leavitt 2007,62,RLB5373,"USA: Arizona, Mohave Co.; Windy Point; N 35.45, W 114.15",NA,X. vigilis,NA,rocks,35.45,-114.15
+Leavitt 2007,69,RLB6830,"USA: Arizona, Mohave Co.; Timber S; N 34.9935, W 113.7909",EU129588,X. vigilis,vigilis_EM,plants,34.9935,-113.7909
+Leavitt 2007,69,RLB6831,"USA: Arizona, Mohave Co.; Timber S; N 34.9935, W 113.7909",EU129589,X. vigilis,vigilis_EM,plants,34.9935,-113.7909
+Leavitt 2007,69,RLB6832,"USA: Arizona, Mohave Co.; Timber S; N 34.9935, W 113.7909",EU129590,X. vigilis,vigilis_EM,plants,34.9935,-113.7909
+Leavitt 2007,62,RLB5380,"USA: Arizona, Mohave Co.; Windy Point; N 35.45, W 114.15",NA,X. vigilis,NA,rocks,35.45,-114.15
+Leavitt 2007,88,RLB5381,"USA: California, Kern Co.; Granite Station; N 35.6, W 118.85",EU129856,X. sierrae,sierra,rocks,35.6,-118.85
+Leavitt 2007,88,RLB5386,"USA: California, Kern Co.; Granite Station; N 35.6, W 118.85",EU129857,X. sierrae,sierra,rocks,35.6,-118.85
+Leavitt 2007,88,RLB5389,"USA: California, Kern Co.; Granite Station; N 35.6, W 118.85",EU129858,X. sierrae,sierra,rocks,35.6,-118.85
+Leavitt 2007,88,RLB5393,"USA: California, Kern Co.; Granite Station; N 35.6, W 118.85",EU129859,X. sierrae,sierra,rocks,35.6,-118.85
+Leavitt 2007,88,RLB5396,"USA: California, Kern Co.; Granite Station; N 35.6, W 118.85",EU129860,X. sierrae,sierra,rocks,35.6,-118.85
+Leavitt 2007,69,RLB6833,"USA: Arizona, Mohave Co.; Timber S; N 34.9935, W 113.7909",EU129591,X. vigilis,vigilis_EM,plants,34.9935,-113.7909
+Leavitt 2007,43,BYU46712,"USA: California, San Bernardino Co.; Fossil Bed Road.; N 35.0014, W 117.0026",EU129610,X. vigilis,vigilis_EM,plants,35.0014,-117.0026
+Leavitt 2007,43,DHL152,"USA: California, San Bernardino Co.; Fossil Bed Road.; N 35.0014, W 117.0026",EU129611,X. vigilis,vigilis_EM,plants,35.0014,-117.0026
+Leavitt 2007,43,DHL153,"USA: California, San Bernardino Co.; Fossil Bed Road.; N 35.0014, W 117.0026",EU129612,X. vigilis,vigilis_EM,plants,35.0014,-117.0026
+Leavitt 2007,43,DHL154,"USA: California, San Bernardino Co.; Fossil Bed Road.; N 35.0014, W 117.0026",EU129613,X. vigilis,vigilis_EM,plants,35.0014,-117.0026
+Leavitt 2007,43,DHL155,"USA: California, San Bernardino Co.; Fossil Bed Road.; N 35.0014, W 117.0026",EU129614,X. vigilis,vigilis_EM,plants,35.0014,-117.0026
+Leavitt 2007,68,RLB6835,"USA: Arizona, Mohave Co.; Timber N; N 35.0274, W 113.8138",EU129592,X. vigilis,vigilis_EM,plants,35.0274,-113.8138
+Leavitt 2007,65,RLB5981,"USA: Arizona, Mohave Co.; Goldroad; N 35.0333, W 114.3333",EU129618,X. vigilis,vigilis_EM,plants,35.0333,-114.3333
+Leavitt 2007,65,RLB5982,"USA: Arizona, Mohave Co.; Goldroad; N 35.0333, W 114.3333",EU129615,X. vigilis,vigilis_EM,plants,35.0333,-114.3333
+Leavitt 2007,65,RLB5983,"USA: Arizona, Mohave Co.; Goldroad; N 35.0333, W 114.3333",EU129616,X. vigilis,vigilis_EM,plants,35.0333,-114.3333
+Leavitt 2007,65,RLB5984,"USA: Arizona, Mohave Co.; Goldroad; N 35.0333, W 114.3333",EU129617,X. vigilis,vigilis_EM,plants,35.0333,-114.3333
+Leavitt 2007,65,RLB5985,"USA: Arizona, Mohave Co.; Goldroad; N 35.0333, W 114.3333",EU129619,X. vigilis,vigilis_EM,plants,35.0333,-114.3333
+Sinclair et al 2004,30,LACM 145128,"Goldroad, U.S.A.: Arizona",AY584319,v. vigilis,vigilis_EM,plants,35.04667,-114.37968
+Leavitt 2007,67,RLB5843,"USA: Arizona, Mohave Co.; Hualapai Mts. NE; N 35.05, W 113.8167",EU129583,X. vigilis,vigilis_EM,rocks,35.05,-113.8167
+Leavitt 2007,67,RLB5844,"USA: Arizona, Mohave Co.; Hualapai Mts. NE; N 35.05, W 113.8167",EU129584,X. vigilis,vigilis_EM,rocks,35.05,-113.8167
+Leavitt 2007,67,RLB5848,"USA: Arizona, Mohave Co.; Hualapai Mts. NE; N 35.05, W 113.8167",EU129586,X. vigilis,vigilis_EM,rocks,35.05,-113.8167
+Leavitt 2007,67,RLB5852,"USA: Arizona, Mohave Co.; Hualapai Mts. NE; N 35.05, W 113.8167",EU129587,X. vigilis,vigilis_EM,rocks,35.05,-113.8167
+Leavitt 2007,66,RLB5927,"USA: Arizona, Mohave Co.; McConnico; N 35.1333, W 114.1167",EU129595,X. vigilis,vigilis_EM,plants,35.1333,-114.1167
+Leavitt 2007,66,RLB5928,"USA: Arizona, Mohave Co.; McConnico; N 35.1333, W 114.1167",EU129593,X. vigilis,vigilis_EM,plants,35.1333,-114.1167
+Leavitt 2007,66,RLB5929,"USA: Arizona, Mohave Co.; McConnico; N 35.1333, W 114.1167",EU129594,X. vigilis,vigilis_EM,plants,35.1333,-114.1167
+Leavitt 2007,66,RLB5930,"USA: Arizona, Mohave Co.; McConnico; N 35.1333, W 114.1167",EU129596,X. vigilis,vigilis_EM,plants,35.1333,-114.1167
+Leavitt 2007,20,RLB5506,"USA: California, Kern Co.; Mojave; N 35.05, W 118.1667",EU129779,X. vigilis,vigilis_KCAV,plants,35.05,-118.1667
+Leavitt 2007,12,RLB5514,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129794,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,RLB5515,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129789,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,RLB5517,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129795,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,RLB5518,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129796,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,12,RLB5519,"USA: California, San Bernardino Co.; Hesperia; N 34.4333, W 117.3",EU129791,X. vigilis,vigilis_KCAV,plants,34.4333,-117.3
+Leavitt 2007,NA,RLB5521,"USA: California, Ventura Co.; San Nicholas Island",EU129464,X. riversiana,riversiana,plants,33.24691844,-119.4992185
+Leavitt 2007,NA,RLB5581,"USA: California, Riverside Co.; Banning",EU129458,X. henshawi,NA,rocks,33.93212199,-116.8725607
+Leavitt 2007,66,RLB5931,"USA: Arizona, Mohave Co.; McConnico; N 35.1333, W 114.1167",EU129597,X. vigilis,vigilis_EM,plants,35.1333,-114.1167
+Sinclair et al 2004,29,LACM 139950,"McConnico, U.S.A.: Arizona",AY584312,v. vigilis,vigilis_EM,plants,35.14465888,-114.0908168
+Leavitt 2007,17,RLB5688,"USA: California, Los Angeles Co.; Palmdale; N 34.6, W 118.1333",EU129754,X. vigilis,vigilis_KCAV,plants,34.6,-118.1333
+Leavitt 2007,17,RLB5689,"USA: California, Los Angeles Co.; Palmdale; N 34.6, W 118.1333",EU129755,X. vigilis,vigilis_KCAV,plants,34.6,-118.1333
+Leavitt 2007,17,RLB5690,"USA: California, Los Angeles Co.; Palmdale; N 34.6, W 118.1333",EU129756,X. vigilis,vigilis_KCAV,plants,34.6,-118.1333
+Leavitt 2007,34,RLB5691,"USA: California, Los Angeles Co.; Lockwood Valley; N 34.8, W 119.0333",EU129744,X. vigilis,vigilis_KCAV,plants,34.8,-119.0333
+Leavitt 2007,34,RLB5692,"USA: California, Los Angeles Co.; Lockwood Valley; N 34.8, W 119.0333",EU129745,X. vigilis,vigilis_KCAV,plants,34.8,-119.0333
+Leavitt 2007,34,RLB5693,"USA: California, Los Angeles Co.; Lockwood Valley; N 34.8, W 119.0333",EU129746,X. vigilis,vigilis_KCAV,plants,34.8,-119.0333
+Leavitt 2007,34,RLB5694,"USA: California, Los Angeles Co.; Lockwood Valley; N 34.8, W 119.0333",EU129747,X. vigilis,vigilis_KCAV,plants,34.8,-119.0333
+Leavitt 2007,70,RLB5423,"USA: Arizona, Mohave Co.; Willow Creek; N 35.1667, W 113.5333",EU129598,X. vigilis,vigilis_EM,rocks,35.1667,-113.5333
+Leavitt 2007,70,RLB5424,"USA: Arizona, Mohave Co.; Willow Creek; N 35.1667, W 113.5333",EU129599,X. vigilis,vigilis_EM,rocks,35.1667,-113.5333
+Leavitt 2007,70,RLB5428,"USA: Arizona, Mohave Co.; Willow Creek; N 35.1667, W 113.5333",EU129600,X. vigilis,vigilis_EM,rocks,35.1667,-113.5333
+Leavitt 2007,70,RLB5429,"USA: Arizona, Mohave Co.; Willow Creek; N 35.1667, W 113.5333",EU129601,X. vigilis,vigilis_EM,rocks,35.1667,-113.5333
+Leavitt 2007,139,RLB5762,"USA: Arizona, Yavapai Co.; Date Creek Mts.; N 34.2333, W 112.95",EU129468,X. arizonae,arizonae,rocks,34.2333,-112.95
+Leavitt 2007,139,RLB5766,"USA: Arizona, Yavapai Co.; Date Creek Mts.; N 34.2333, W 112.95",EU129469,X. arizonae,arizonae,rocks,34.2333,-112.95
+Leavitt 2007,139,RLB5767,"USA: Arizona, Yavapai Co.; Date Creek Mts.; N 34.2333, W 112.95",EU129470,X. arizonae,arizonae,rocks,34.2333,-112.95
+Leavitt 2007,139,RLB5768,"USA: Arizona, Yavapai Co.; Date Creek Mts.; N 34.2333, W 112.95",EU129471,X. arizonae,arizonae,rocks,34.2333,-112.95
+Leavitt 2007,139,RLB5771,"USA: Arizona, Yavapai Co.; Date Creek Mts.; N 34.2333, W 112.95",EU129472,X. arizonae,arizonae,rocks,34.2333,-112.95
+Leavitt 2007,70,RLB5430,"USA: Arizona, Mohave Co.; Willow Creek; N 35.1667, W 113.5333",EU129602,X. vigilis,vigilis_EM,rocks,35.1667,-113.5333
+Sinclair et al 2004,17,LACM 135194,"Willow Creek, U.S.A.: Arizona",AY584291,v. arizonae,vigilis_EM,Rocks,35.1846997,-113.8080072
+Sinclair et al 2004,16,LACM 138825,"Hualapai Mountains NE, U.S.A.: Arizona",AY584306,v. arizonae,vigilis_EM,Rocks,35.19273902,-114.0560435
+Leavitt 2007,46,RLB5272.10,"USA: California, San Bernardino Co.; Cima Dome; N 35.2833, W 115.5667",EU129713,X. vigilis,vigilis_EM,plants,35.2833,-115.5667
+Leavitt 2007,140,RLB5782,"USA: Arizona, Yavapai Co.; Grayback Mt. (10¬†mi); N 34.3847, W 113.0943",EU129491,X. arizonae,arizonae,rocks,34.3847,-113.0943
+Leavitt 2007,140,RLB5783,"USA: Arizona, Yavapai Co.; Grayback Mt. (10¬†mi); N 34.3847, W 113.0943",EU129492,X. arizonae,arizonae,rocks,34.3847,-113.0943
+Leavitt 2007,144,RLB5785,"USA: Arizona, Yavapai Co.; Hillside (2.1¬†N); N 34.4404, W 112.9035",EU129487,X. arizonae,arizonae,rocks,34.4404,-112.9035
+Leavitt 2007,144,RLB5786,"USA: Arizona, Yavapai Co.; Hillside (2.1¬†N); N 34.4404, W 112.9035",EU129489,X. arizonae,arizonae,rocks,34.4404,-112.9035
+Leavitt 2007,144,RLB5787,"USA: Arizona, Yavapai Co.; Hillside (2.1¬†N); N 34.4404, W 112.9035",EU129490,X. arizonae,arizonae,rocks,34.4404,-112.9035
+Leavitt 2007,144,RLB5788,"USA: Arizona, Yavapai Co.; Hillside (2.1¬†N); N 34.4404, W 112.9035",EU129488,X. arizonae,arizonae,rocks,34.4404,-112.9035
+Leavitt 2007,144,RLB5792,"USA: Arizona, Yavapai Co.; Hillside (2.1¬†N); N 34.4404, W 112.9035",EU129486,X. arizonae,arizonae,rocks,34.4404,-112.9035
+Leavitt 2007,46,RLB5272.11,"USA: California, San Bernardino Co.; Cima Dome; N 35.2833, W 115.5667",EU129714,X. vigilis,vigilis_EM,plants,35.2833,-115.5667
+Leavitt 2007,46,RLB5272.13,"USA: California, San Bernardino Co.; Cima Dome; N 35.2833, W 115.5667",EU129715,X. vigilis,vigilis_EM,plants,35.2833,-115.5667
+Leavitt 2007,46,RLB5272.14,"USA: California, San Bernardino Co.; Cima Dome; N 35.2833, W 115.5667",EU129716,X. vigilis,vigilis_EM,plants,35.2833,-115.5667
+Leavitt 2007,46,RLB5272.3,"USA: California, San Bernardino Co.; Cima Dome; N 35.2833, W 115.5667",EU129717,X. vigilis,vigilis_EM,plants,35.2833,-115.5667
+Sinclair et al 2004,42,LACM 151489,"Cima Dome, U.S.A.: California",AY584274,v. vigilis,vigilis_EM,plants,35.28991894,-115.5832576
+Leavitt 2007,63,RLB5908,"USA: Arizona, Mohave Co.; Valentine; N 35.3833, W 113.65",EU129700,X. vigilis,vigilis_EM,rocks,35.3833,-113.65
+Leavitt 2007,72,RLB5816,"USA: Arizona, Mohave Co.; Wikiup; N 34.6833, W 113.6833",NA,X. vigilis,NA,plants,34.6833,-113.6833
+Leavitt 2007,63,RLB5909,"USA: Arizona, Mohave Co.; Valentine; N 35.3833, W 113.65",EU129696,X. vigilis,vigilis_EM,rocks,35.3833,-113.65
+Sinclair et al 2004,18a,LACM 139943,"Valentine, U.S.A.: Arizona",AY584310,v. arizonae,vigilis_EM,Rocks,35.38861243,-113.6519681
+Noonan et al 2013,vigilis 5918,LACM 139948,USA: Arizona: Valentine NE,EU129692,vigilis,vigilis_EM,rocks,35.38861243,-113.6519681
+Sinclair et al 2004,18a,LACM 139942,"Valentine, U.S.A.: Arizona",AY584309,v. arizonae,vigilis_EM,Rocks,35.38909928,-113.6577199
+Sinclair et al 2004,18b,LACM 139947,"Valentine NE, U.S.A.: Arizona",AY584311,v. arizonae,vigilis_EM,Rocks,35.38909928,-113.6577199
+Leavitt 2007,45,DHL172,"USA: California, San Bernardino Co.; Halloran Summit Road.; N 35.4082, W 115.7939",EU129722,X. vigilis,vigilis_EM,plants,35.4082,-115.7939
+Leavitt 2007,45,DHL173,"USA: California, San Bernardino Co.; Halloran Summit Road.; N 35.4082, W 115.7939",EU129721,X. vigilis,vigilis_EM,plants,35.4082,-115.7939
+Leavitt 2007,136,RLB5828,"USA: Arizona, Yavapai Co.; Stanton; N 34.15, W 112.7333",EU129477,X. arizonae,arizonae,rocks,34.15,-112.7333
+Leavitt 2007,145,RLB5836,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129478,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5837,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129479,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5838,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129485,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,45,DHL174,"USA: California, San Bernardino Co.; Halloran Summit Road.; N 35.4082, W 115.7939",EU129719,X. vigilis,vigilis_EM,plants,35.4082,-115.7939
+Leavitt 2007,45,DHL175,"USA: California, San Bernardino Co.; Halloran Summit Road.; N 35.4082, W 115.7939",EU129720,X. vigilis,vigilis_EM,plants,35.4082,-115.7939
+Leavitt 2007,67,RLB5847,"USA: Arizona, Mohave Co.; Hualapai Mts. NE; N 35.05, W 113.8167",EU129585,X. vigilis,NA,rocks,35.05,-113.8167
+Sinclair et al 2004,19b,LACM 134545,"Windy Point, U.S.A.: Arizona",AY584286,v. arizonae,vigilis_EM,Rocks,35.43284728,-114.1679065
+Leavitt 2007,64,RLB5914,"USA: Arizona, Mohave Co.; Valentine NE; N 35.4333, W 113.65",EU129697,X. vigilis,vigilis_EM,rocks,35.4333,-113.65
+Leavitt 2007,64,RLB5915,"USA: Arizona, Mohave Co.; Valentine NE; N 35.4333, W 113.65",EU129698,X. vigilis,vigilis_EM,rocks,35.4333,-113.65
+Leavitt 2007,64,RLB5916,"USA: Arizona, Mohave Co.; Valentine NE; N 35.4333, W 113.65",EU129691,X. vigilis,vigilis_EM,rocks,35.4333,-113.65
+Leavitt 2007,64,RLB5917,"USA: Arizona, Mohave Co.; Valentine NE; N 35.4333, W 113.65",EU129699,X. vigilis,vigilis_EM,rocks,35.4333,-113.65
+Leavitt 2007,62,RLB5376,"USA: Arizona, Mohave Co.; Windy Point; N 35.45, W 114.15",EU129695,X. vigilis,vigilis_EM,rocks,35.45,-114.15
+Leavitt 2007,71,RLB5870,"USA: Arizona, Mohave Co.; Hualapai Mts. SW; N 34.6833, W 113.9",NA,X. vigilis,NA,plants,34.6833,-113.9
+Leavitt 2007,79,RLB5878,"USA: Arizona, Yavapai Co.; Bagdad (2.6 NE); N 34.6, W 113.15",EU129561,X. vigilis,NA,plants,34.6,-113.15
+Leavitt 2007,62,RLB5377,"USA: Arizona, Mohave Co.; Windy Point; N 35.45, W 114.15",EU129676,X. vigilis,vigilis_EM,rocks,35.45,-114.15
+Leavitt 2007,77,RLB5892,"USA: Arizona, Mohave Co.; Red Knob; N 34.6, W 113.4",EU129567,X. vigilis,NA,plants,34.6,-113.4
+Leavitt 2007,62,RLB5379,"USA: Arizona, Mohave Co.; Windy Point; N 35.45, W 114.15",EU129677,X. vigilis,vigilis_EM,rocks,35.45,-114.15
+Leavitt 2007,60,RLB5436,"USA: Arizona, Mohave Co.; Cerbats below; N 35.45, W 114.3",EU129686,X. vigilis,vigilis_EM,plants,35.45,-114.3
+Leavitt 2007,60,RLB5437,"USA: Arizona, Mohave Co.; Cerbats below; N 35.45, W 114.3",EU129693,X. vigilis,vigilis_EM,plants,35.45,-114.3
+Sinclair et al 2004,19a,LACM 134531,"Packsaddle, U.S.A.: Arizona",AY584284,v. arizonae,vigilis_EM,Rocks,35.46277385,-114.1592265
+Sinclair et al 2004,19a,LACM 134533,"Packsaddle, U.S.A.: Arizona",AY584285,v. arizonae,vigilis_EM,Rocks,35.46277385,-114.1592265
+Leavitt 2007,61,RLB5363,"USA: Arizona, Mohave Co.; Packsaddle; N 35.4667, W 114.1833",EU129678,X. vigilis,vigilis_EM,rocks,35.4667,-114.1833
+Leavitt 2007,61,RLB5365,"USA: Arizona, Mohave Co.; Packsaddle; N 35.4667, W 114.1833",EU129679,X. vigilis,vigilis_EM,rocks,35.4667,-114.1833
+Leavitt 2007,61,RLB5366,"USA: Arizona, Mohave Co.; Packsaddle; N 35.4667, W 114.1833",EU129680,X. vigilis,vigilis_EM,rocks,35.4667,-114.1833
+Leavitt 2007,61,RLB5369,"USA: Arizona, Mohave Co.; Packsaddle; N 35.4667, W 114.1833",EU129681,X. vigilis,vigilis_EM,rocks,35.4667,-114.1833
+Leavitt 2007,64,RLB5918,"USA: Arizona, Mohave Co.; Valentine NE; N 35.4333, W 113.65",EU129692,X. vigilis,NA,rocks,35.4333,-113.65
+Leavitt 2007,61,RLB5370,"USA: Arizona, Mohave Co.; Packsaddle; N 35.4667, W 114.1833",EU129675,X. vigilis,vigilis_EM,rocks,35.4667,-114.1833
+Leavitt 2007,59,RLB5283.10,"USA: Arizona, Mohave Co.; Dolan Springs; N 35.5833, W 114.25",EU129682,X. vigilis,vigilis_EM,plants,35.5833,-114.25
+Leavitt 2007,59,RLB5283.12,"USA: Arizona, Mohave Co.; Dolan Springs; N 35.5833, W 114.25",EU129685,X. vigilis,vigilis_EM,plants,35.5833,-114.25
+Leavitt 2007,59,RLB5283.4,"USA: Arizona, Mohave Co.; Dolan Springs; N 35.5833, W 114.25",EU129683,X. vigilis,vigilis_EM,plants,35.5833,-114.25
+Leavitt 2007,59,RLB5283.6,"USA: Arizona, Mohave Co.; Dolan Springs; N 35.5833, W 114.25",EU129684,X. vigilis,vigilis_EM,plants,35.5833,-114.25
+Leavitt 2007,145,RLB5953,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129480,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5954,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129481,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5955,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129482,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5956,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129483,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Leavitt 2007,145,RLB5957,"USA: Arizona, Yavapai Co.; Mule Shoe; N 34.5167, W 112.9333",EU129484,X. arizonae,arizonae,rocks,34.5167,-112.9333
+Sinclair et al 2004,32,LACM 151490,"Dolan Springs, U.S.A.: Arizona",AY584275,v. vigilis,vigilis_EM,plants,35.59165742,-114.2593723
+Leavitt 2007,151,RLB5971,"USA: Arizona, Maricopa Co.; Blackbrush Ranch; N 33.6167, W 111.15",EU129520,X. bezyi,bezyi,rocks,33.6167,-111.15
+Leavitt 2007,150,RLB5972,"USA: Arizona, Pinal Co.; Pinyon Camp; N 33.4167, W 111.783",EU129521,X. bezyi,bezyi,rocks,33.4167,-111.783
+Leavitt 2007,150,RLB5973,"USA: Arizona, Pinal Co.; Pinyon Camp; N 33.4167, W 111.783",EU129522,X. bezyi,bezyi,rocks,33.4167,-111.783
+Leavitt 2007,154,RLB5974,"USA: Arizona, Maricopa Co.; Sunflower (13.5¬†S); N 33.667, W 111.5",EU129523,X. bezyi,bezyi,rocks,33.667,-111.5
+Leavitt 2007,154,RLB5975,"USA: Arizona, Maricopa Co.; Sunflower (13.5¬†S); N 33.667, W 111.5",EU129536,X. bezyi,bezyi,rocks,33.667,-111.5
+Leavitt 2007,154,RLB5976,"USA: Arizona, Maricopa Co.; Sunflower (13.5¬†S); N 33.667, W 111.5",EU129537,X. bezyi,bezyi,rocks,33.667,-111.5
+Leavitt 2007,154,RLB5977,"USA: Arizona, Maricopa Co.; Sunflower (13.5¬†S); N 33.667, W 111.5",EU129524,X. bezyi,bezyi,rocks,33.667,-111.5
+Leavitt 2007,154,RLB5978,"USA: Arizona, Maricopa Co.; Sunflower (13.5¬†S); N 33.667, W 111.5",EU129538,X. bezyi,bezyi,rocks,33.667,-111.5
+Leavitt 2007,50,RLB6011,"USA: Nevada, Clark Co.; Jean; N 35.7833, W 115.333",EU129633,X. vigilis,vigilis_EM,plants,35.7833,-115.333
+Leavitt 2007,50,RLB6012,"USA: Nevada, Clark Co.; Jean; N 35.7833, W 115.333",EU129634,X. vigilis,vigilis_EM,plants,35.7833,-115.333
+Leavitt 2007,50,RLB6013,"USA: Nevada, Clark Co.; Jean; N 35.7833, W 115.333",EU129636,X. vigilis,vigilis_EM,plants,35.7833,-115.333
+Leavitt 2007,50,RLB6014,"USA: Nevada, Clark Co.; Jean; N 35.7833, W 115.333",EU129635,X. vigilis,vigilis_EM,plants,35.7833,-115.333
+Leavitt 2007,50,RLB6015,"USA: Nevada, Clark Co.; Jean; N 35.7833, W 115.333",EU129637,X. vigilis,vigilis_EM,plants,35.7833,-115.333
+Sinclair et al 2004,31,LACM 135205,"Cerbats below, U.S.A.: Arizona",AY584292,v. vigilis,vigilis_EM,plants,35.81535358,-114.1124623
+Sinclair et al 2004,33,LACM 135214,"Pierce Ferry, U.S.A.: Arizona",AY584293,v. vigilis,vigilis_EM,plants,35.81588387,-114.1128057
+Leavitt 2007,52,RLB5999,"USA: Nevada, Lincoln Co.; Delamar; N 37.55, W 114.8667",EU129622,X. vigilis,NA,plants,37.55,-114.8667
+Sinclair et al 2004,33,LACM 135224,"Pierce Ferry, U.S.A.: Arizona",AY584294,v. vigilis,vigilis_EM,plants,35.81588387,-114.1128057
+Sinclair et al 2004,41,LACM 145152,"Jean, U.S.A.: Nevada",AY584322,v. vigilis,vigilis_EM,plants,35.8160434,-115.2961599
+Leavitt 2007,58,RLB5450,"USA: Arizona, Mohave Co.; Pierce Ferry; N 35.85, W 114.1",EU129687,X. vigilis,vigilis_EM,plants,35.85,-114.1
+Leavitt 2007,58,RLB5451,"USA: Arizona, Mohave Co.; Pierce Ferry; N 35.85, W 114.1",EU129688,X. vigilis,vigilis_EM,plants,35.85,-114.1
+Leavitt 2007,58,RLB5455,"USA: Arizona, Mohave Co.; Pierce Ferry; N 35.85, W 114.1",EU129689,X. vigilis,vigilis_EM,plants,35.85,-114.1
+Leavitt 2007,58,RLB5457,"USA: Arizona, Mohave Co.; Pierce Ferry; N 35.85, W 114.1",EU129690,X. vigilis,vigilis_EM,plants,35.85,-114.1
+Noonan et al 2013,vigilis DHL75,BYU 48075,USA: California: Nopah Mts. Pass,EU129718,vigilis,vigilis_EM,plants,36.00767059,-116.077898
+Leavitt 2007,57,RLB6945,"USA: Arizona, Mohave Co.; Jacobs; N 36.6247, W 113.9292",EU129668,X. vigilis,vigilis_EM,plants,36.6247,-113.9292
+Leavitt 2007,57,RLB6946,"USA: Arizona, Mohave Co.; Jacobs; N 36.6247, W 113.9292",EU129669,X. vigilis,vigilis_EM,plants,36.6247,-113.9292
+Leavitt 2007,57,RLB6947,"USA: Arizona, Mohave Co.; Jacobs; N 36.6247, W 113.9292",EU129670,X. vigilis,vigilis_EM,plants,36.6247,-113.9292
+Leavitt 2007,57,RLB6948,"USA: Arizona, Mohave Co.; Jacobs; N 36.6247, W 113.9292",EU129671,X. vigilis,vigilis_EM,plants,36.6247,-113.9292
+Leavitt 2007,57,RLB6949,"USA: Arizona, Mohave Co.; Jacobs; N 36.6247, W 113.9292",EU129672,X. vigilis,vigilis_EM,plants,36.6247,-113.9292
+Sinclair et al 2004,40,LACM 145151,"Moapa, U.S.A.: Nevada",AY584321,v. vigilis,vigilis_EM,plants,36.67234,-114.35255
+Noonan et al 2013,vigilis 6009,LACM 145150,USA: Nevada: Moapa,EU116654,vigilis,vigilis_EM,plants,36.67234,-114.35255
+Leavitt 2007,51,RLB6006,"USA: Nevada, Clark Co.; Moapa; N 36.7833, W 114.85",EU129625,X. vigilis,vigilis_EM,plants,36.7833,-114.85
+Leavitt 2007,51,RLB6007,"USA: Nevada, Clark Co.; Moapa; N 36.7833, W 114.85",EU129626,X. vigilis,vigilis_EM,plants,36.7833,-114.85
+Leavitt 2007,51,RLB6008,"USA: Nevada, Clark Co.; Moapa; N 36.7833, W 114.85",EU129627,X. vigilis,vigilis_EM,plants,36.7833,-114.85
+Leavitt 2007,152,RLB6074,"USA: Arizona, Maricopa Co.; Four Peaks; N 33.733, W 111.35",EU129525,X. bezyi,bezyi,rocks,33.733,-111.35
+Leavitt 2007,152,RLB6078,"USA: Arizona, Maricopa Co.; Four Peaks; N 33.733, W 111.35",EU129527,X. bezyi,bezyi,rocks,33.733,-111.35
+Leavitt 2007,152,RLB6080,"USA: Arizona, Maricopa Co.; Four Peaks; N 33.733, W 111.35",EU129528,X. bezyi,bezyi,rocks,33.733,-111.35
+Leavitt 2007,152,RLB6082,"USA: Arizona, Maricopa Co.; Four Peaks; N 33.733, W 111.35",EU129534,X. bezyi,bezyi,rocks,33.733,-111.35
+Leavitt 2007,152,RLB6083,"USA: Arizona, Maricopa Co.; Four Peaks; N 33.733, W 111.35",EU129535,X. bezyi,bezyi,rocks,33.733,-111.35
+Leavitt 2007,20,RLB6088,"USA: California, Kern Co.; Mojave; N 35.05, W 118.1667",EU129771,X. vigilis,NA,plants,35.05,-118.1667
+Leavitt 2007,20,RLB6089,"USA: California, Kern Co.; Mojave; N 35.05, W 118.1667",EU129752,X. vigilis,vigilis_KCAV,plants,35.05,-118.1667
+Leavitt 2007,20,RLB6090,"USA: California, Kern Co.; Mojave; N 35.05, W 118.1667",EU129764,X. vigilis,vigilis_KCAV,plants,35.05,-118.1667
+Leavitt 2007,143,RLB6093,"USA: Arizona, Yavapai Co.; Hillside (4.0¬†W); N 34.4461, W 112.958",EU129499,X. arizonae,arizonae,rocks,34.4461,-112.958
+Leavitt 2007,143,RLB6094,"USA: Arizona, Yavapai Co.; Hillside (4.0¬†W); N 34.4461, W 112.958",EU129500,X. arizonae,arizonae,rocks,34.4461,-112.958
+Leavitt 2007,143,RLB6095,"USA: Arizona, Yavapai Co.; Hillside (4.0¬†W); N 34.4461, W 112.958",EU129493,X. arizonae,arizonae,rocks,34.4461,-112.958
+Leavitt 2007,143,RLB6096,"USA: Arizona, Yavapai Co.; Hillside (4.0¬†W); N 34.4461, W 112.958",EU129494,X. arizonae,arizonae,rocks,34.4461,-112.958
+Leavitt 2007,143,RLB6097,"USA: Arizona, Yavapai Co.; Hillside (4.0¬†W); N 34.4461, W 112.958",EU129501,X. arizonae,arizonae,rocks,34.4461,-112.958
+Leavitt 2007,51,RLB6009,"USA: Nevada, Clark Co.; Moapa; N 36.7833, W 114.85",EU129628,X. vigilis,vigilis_EM,plants,36.7833,-114.85
+Leavitt 2007,149,RLB6102,"USA: Arizona, Pinal Co.; Oak Flat; N 33.3, W 111.067",EU129516,X. bezyi,bezyi,rocks,33.3,-111.067
+Leavitt 2007,149,RLB6103,"USA: Arizona, Pinal Co.; Oak Flat; N 33.3, W 111.067",EU129517,X. bezyi,bezyi,rocks,33.3,-111.067
+Leavitt 2007,149,RLB6104,"USA: Arizona, Pinal Co.; Oak Flat; N 33.3, W 111.067",EU129519,X. bezyi,bezyi,rocks,33.3,-111.067
+Leavitt 2007,149,RLB6105,"USA: Arizona, Pinal Co.; Oak Flat; N 33.3, W 111.067",EU129518,X. bezyi,bezyi,rocks,33.3,-111.067
+Leavitt 2007,51,RLB6010,"USA: Nevada, Clark Co.; Moapa; N 36.7833, W 114.85",EU129629,X. vigilis,vigilis_EM,plants,36.7833,-114.85
+Leavitt 2007,56,RLB6930,"USA: Arizona, Mohave Co.; Mokaac; N 36.9478, W 113.5565",EU129673,X. vigilis,vigilis_EM,plants,36.9478,-113.5565
+Leavitt 2007,56,RLB6931,"USA: Arizona, Mohave Co.; Mokaac; N 36.9478, W 113.5565",EU129674,X. vigilis,vigilis_EM,plants,36.9478,-113.5565
+Sinclair et al 2004,38,LACM 135229,"Castle Cliff, U.S.A.: Utah",AY584295,v. vigilis,vigilis_EM,plants,37.066,-113.88584
+Leavitt 2007,53,RLB-TC384,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129701,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Leavitt 2007,142,RLB6170,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.2); N 34.4025, W 112.989",EU129495,X. arizonae,arizonae,rocks,34.4025,-112.989
+Leavitt 2007,142,RLB6171,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.2); N 34.4025, W 112.989",EU129502,X. arizonae,arizonae,rocks,34.4025,-112.989
+Leavitt 2007,142,RLB6172,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.2); N 34.4025, W 112.989",EU129496,X. arizonae,arizonae,rocks,34.4025,-112.989
+Leavitt 2007,142,RLB6173,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.2); N 34.4025, W 112.989",EU129503,X. arizonae,arizonae,rocks,34.4025,-112.989
+Leavitt 2007,142,RLB6174,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.2); N 34.4025, W 112.989",EU129497,X. arizonae,arizonae,rocks,34.4025,-112.989
+Leavitt 2007,141,RLB6179,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.7); N 34.4087, W 112.9975",EU129504,X. arizonae,arizonae,rocks,34.4087,-112.9975
+Leavitt 2007,141,RLB6180,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.7); N 34.4087, W 112.9975",EU129505,X. arizonae,arizonae,rocks,34.4087,-112.9975
+Leavitt 2007,141,RLB6181,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.7); N 34.4087, W 112.9975",EU129506,X. arizonae,arizonae,rocks,34.4087,-112.9975
+Leavitt 2007,141,RLB6182,"USA: Arizona, Yavapai Co.; Grayback Mt. (4.7); N 34.4087, W 112.9975",EU129498,X. arizonae,arizonae,rocks,34.4087,-112.9975
+Leavitt 2007,53,RLB5459,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129702,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Leavitt 2007,53,RLB5460,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129703,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Leavitt 2007,53,RLB5462,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129704,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Leavitt 2007,53,RLB5464,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129705,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Leavitt 2007,53,RLB5468,"USA: Utah, Washington Co.; Castle Cliff; N 37.0667, W 113.8833",EU129706,X. vigilis,vigilis_EM,plants,37.0667,-113.8833
+Sinclair et al 2004,80,BYU 46845,"Moki Canyon, U.S.A.: Utah",AY584356,v. utahensis,vigilis_EM,Rocks,37.45546789,-110.4045828
+Noonan et al 2013,vigilis Mok1,BYU 46845,USA: Utah: Moki Canyon,EU129712,vigilis,vigilis_EM,plants,37.45546789,-110.4045828
+Sinclair et al 2004,39,LACM 145140,"Delamar, U.S.A.: Nevada",AY584320,v. vigilis,vigilis_EM,plants,37.46053953,-114.7753677
+Noonan et al 2013,vigilis 5999,LACM 145140,USA: Nevada: Delamar,EU129622,vigilis,vigilis_EM,plants,37.46053953,-114.7753677
+Noonan et al 2013,vigilis 3366,BYU 48520,USA: Utah: Grand Staircase-Escalante National Monument,EU116658,vigilis,vigilis_EM,plants,37.46105108,-111.5936726
+Leavitt 2007,112,BYU48041,"USA: California, San Bernardino Co.; Yucca Valley entrance; N 34.1112, W 116.4752",EU129886,Yucca Valley/ San Jacinto,vigilis_SJ,plants,34.1112,-116.4752
+Leavitt 2007,112,BYU48042,"USA: California, San Bernardino Co.; Yucca Valley entrance; N 34.1112, W 116.4752",EU129877,Yucca Valley/ San Jacinto,vigilis_SJ,plants,34.1112,-116.4752
+Noonan et al 2013,'San Jacinto' DHL30,BYU 48038,USA: California: Yucca Valley Entrance,EU129876,NA,vigilis_SJ,plants,34.11417,-116.43224
+Leavitt 2007,110,RLB6673,"USA: California, San Bernardino Co.; Yucca Valley, Hwy. 247; N 34.1297, W 116.4145",EU129904,Yucca Valley,vigilis_YV,plants,34.1297,-116.4145
+Leavitt 2007,110,RLB6674,"USA: California, San Bernardino Co.; Yucca Valley, Hwy. 247; N 34.1297, W 116.4145",EU129914,Yucca Valley,vigilis_YV,plants,34.1297,-116.4145
+Leavitt 2007,35,RLB6675,"USA: California, Kern Co.; Freeman; N 35.6062, W 117.9412",EU129832,X. vigilis,vigilis_OV,plants,35.6062,-117.9412
+Leavitt 2007,35,RLB6675,"USA: California, Kern Co.; Freeman; N 35.6062, W 117.9412",EU129832,X. vigilis,vigilis_OV,plants,35.6062,-117.9412
+Leavitt 2007,35,RLB6677,"USA: California, Kern Co.; Freeman; N 35.6062, W 117.9412",EU129838,X. vigilis,vigilis_OV,plants,35.6062,-117.9412
+Leavitt 2007,35,RLB6678,"USA: California, Kern Co.; Freeman; N 35.6062, W 117.9412",EU129836,X. vigilis,vigilis_OV,plants,35.6062,-117.9412
+Leavitt 2007,35,RLB6679,"USA: California, Kern Co.; Freeman; N 35.6062, W 117.9412",EU129833,X. vigilis,vigilis_OV,plants,35.6062,-117.9412
+Leavitt 2007,36,RLB6680,"USA: California, Kern Co.; Short Canyon; N 35.7108, W 117.9108",EU129841,X. vigilis,vigilis_OV,plants,35.7108,-117.9108
+Leavitt 2007,42,RLB6719,"USA: California, San Benito Co.; Panoche; N 36.658, W 120.7823",EU129844,X. vigilis,vigilis_PP,plants,36.658,-120.7823
+Leavitt 2007,42,RLB6720,"USA: California, San Benito Co.; Panoche; N 36.658, W 120.7823",EU129842,X. vigilis,vigilis_PP,plants,36.658,-120.7823
+Leavitt 2007,42,RLB6721,"USA: California, San Benito Co.; Panoche; N 36.658, W 120.7823",EU129843,X. vigilis,NA,plants,36.658,-120.7823
+Leavitt 2007,42,RLB6722,"USA: California, San Benito Co.; Panoche; N 36.658, W 120.7823",EU129845,X. vigilis,vigilis_PP,plants,36.658,-120.7823
+Noonan et al 2013,vigilis 3369,BYU 48523,USA: Utah: Grand Staircase-Escalante National Monument,EU116659,vigilis,vigilis_EM,plants,37.46105108,-111.5936726
+Leavitt 2007,52,RLB5995,"USA: Nevada, Lincoln Co.; Delamar; N 37.55, W 114.8667",EU129620,X. vigilis,vigilis_EM,plants,37.55,-114.8667
+Leavitt 2007,52,RLB5997,"USA: Nevada, Lincoln Co.; Delamar; N 37.55, W 114.8667",EU129621,X. vigilis,vigilis_EM,plants,37.55,-114.8667
+Leavitt 2007,52,RLB6000,"USA: Nevada, Lincoln Co.; Delamar; N 37.55, W 114.8667",EU129623,X. vigilis,vigilis_EM,plants,37.55,-114.8667
+Leavitt 2007,52,RLB6004,"USA: Nevada, Lincoln Co.; Delamar; N 37.55, W 114.8667",EU129624,X. vigilis,vigilis_EM,plants,37.55,-114.8667
+Leavitt 2007,54,RLB-KC1215,"USA: Utah, Garfield Co.; Hogs Back; N 37.8833, W 110.6167",EU129707,X. vigilis,vigilis_EM,plants,37.8833,-110.6167
+Leavitt 2007,54,RLB-KC1216,"USA: Utah, Garfield Co.; Hogs Back; N 37.8833, W 110.6167",EU129708,X. vigilis,vigilis_EM,plants,37.8833,-110.6167
+Leavitt 2007,54,RLB-KC1217,"USA: Utah, Garfield Co.; Hogs Back; N 37.8833, W 110.6167",EU129709,X. vigilis,vigilis_EM,plants,37.8833,-110.6167
+Leavitt 2007,54,RLB5584,"USA: Utah, Garfield Co.; Hogs Back; N 37.8833, W 110.6167",EU129710,X. vigilis,vigilis_EM,plants,37.8833,-110.6167
+Leavitt 2007,54,RLB5586,"USA: Utah, Garfield Co.; Hogs Back; N 37.8833, W 110.6167",EU129711,X. vigilis,vigilis_EM,plants,37.8833,-110.6167
+Sinclair et al 2004,37,LACM 136734,"Hogs Back, U.S.A.: Utah",AY584270,v. utahensis,vigilis_EM,Rocks/plants,37.90708,-110.57433
+Noonan et al 2013,vigilis 1216,LACM 136734,USA: Utah: Hogs Back,EU116657,vigilis,vigilis_EM,plants,37.90708,-110.57433
+Lovich et al 2001,SDSNH68850,SDSNH68850,"Culp Valley Campground, San Diego Co, CA",AF313385,henshawi,henshawi_1,rocks,33.22479227,-116.4556251
+Sinclair et al 2004,…,SDSNH 68824,"Riverside, U.S.A.: California",AF313381,henshawi henshawi,henshawi_3,Rocks,33.97893715,-117.3775708
+Sinclair et al 2004,84,ABDSP 625-2-01-625-2-02,"Truckhaven, U.S.A.: California",AF313373,henshawi gracilis,gracilis,Rocks,33.29865449,-115.9714128
+Lovich et al 2001,SDSNH68800,SDSNH68800,"3 km south of Banning, Riverside Co, CA",AF313377,henshawi,henshawi_3,rocks,33.93212199,-116.8725607
+Lovich et al 2001,SDSNH68802,SDSNH68802,"3 km south of Banning, Riverside Co, CA",AF313375,henshawi,henshawi_3,rocks,33.93212199,-116.8725607
+Sinclair et al 2004,84,SDSNH 68825,"Truckhaven, U.S.A.: California",AY584364,henshawi gracilis,gracilis,Rocks,33.29865449,-115.9714128
+Leavitt 2007,NA,RLB-TC716,"USA: California, San Diego Co.; Truckhaven Rocks",EU129457,X. gracilis,gracilis,rocks,33.29063353,-116.1398936
+Lovich et al 2001,SDSNH68809,SDSNH68809,"2 km north of I-15, Riverside Co, CA",AF313384,henshawi,henshawi_2,rocks,NA,NA
+Lovich et al 2001,SDSNH68813,SDSNH68813,"1 km west of highway 79, San Diego Co, CA",AF313380,henshawi,henshawi_2,rocks,33.42397352,-116.8196843
+Lovich et al 2001,SDSNH68817,SDSNH68817,"2 km west of highway 79, San Diego Co, CA",AF313379,henshawi,henshawi_2,rocks,33.42397352,-116.8196843
+Lovich et al 2001,SDSNH68824,SDSNH68824,"Santa Rosa Mountain Road, San Diego Co, CA",AF313381,henshawi,henshawi_3,rocks,33.59733471,-116.2535406
+Noonan et al 2013,"gracilis ""Xagr""",ABDSP-SRC 625-2-02,USA: California: Truckhaven,EU116622,gracilis,gracilis,rocks,33.29865449,-115.9714128
+Lovich et al 2001,SDSNH68836,SDSNH68836,"2 km north of Lake Morena, San Diego Co, CA",AF313376,henshawi,henshawi_2,rocks,32.68286568,-116.5184416
+Lovich et al 2001,SDSNH68840,SDSNH68840,"3 km southwest of Campo, San Diego Co, CA",AF313378,henshawi,henshawi_2,rocks,32.60671085,-116.470447
+Noonan et al 2013,gracilis TC716,SDNHM 64825,USA: California: Truckhaven,EU129457,gracilis,gracilis,rocks,33.29865449,-115.9714128
+Lovich et al 2001,SDSNH68859,SDSNH68859,"1 km south Mountain Springs and I-8, Imperial Co, CA",AF313383,henshawi,henshawi_2,rocks,32.67545119,-116.101494
+Sinclair et al 2004,2,UAZ 44029,"Galiuro Zapata, U.S.A.: Arizona",AY584268,v. arizonae,bezyi,Rocks/plants,32.58956374,-110.3316521
+Sinclair et al 2004,2,UAZ 44030,"Galiuro Zapata, U.S.A.: Arizona",AY584269,v. arizonae,bezyi,Rocks/plants,32.58956374,-110.3316521
+Noonan et al 2013,riversiana Stipa 138,WM 138,USA: California: San Clemente Is.,EU116632,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Stipa 147,WM 147,USA: California: San Clemente Is.,EU116631,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Wilson 162,WM 162,USA: California: San Clemente Is.,EU116633,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Wilson 40,WM 40,USA: California: San Clemente Is.,EU116630,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Eel 531,WM 531,USA: California: San Clemente Is.,EU116634,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Shoba 66,WM 616,USA: California: San Clemente Is.,EU116628,riversiana,riversiana,plants,32.90971496,-118.479246
+Noonan et al 2013,riversiana Shoba 50,WM50,USA: California: San Clemente Is.,EU116629,riversiana,riversiana,plants,32.90971496,-118.479246

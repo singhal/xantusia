@@ -1,0 +1,146 @@
+sample,museum_voucher,genus,species,revised_species,cluster,OTU,latitude,longitude,sonal_georef,notes,locality,duplicate,sample_fix,Barcode,Illumina_Index,mtDNA_lineage,habitat notes,habitat
+MOK1,BYU 46854,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,37.48435102,-110.6394297,TRUE,,Utah: Moki Canyon,FALSE,BYU46854,ATGTCC,AGTTCC,NA,assuming plants based on location relative to mtDNA relatives,plants
+ZA3,ENEPI 7700,Xantusia,vigilis,wigginsi,bez_wig,wigginsi,31.35487,-115.52311,TRUE,don't trust georef,Baja California: Matias,FALSE,ENEPI7700,CAGAGT,GTAGAG,wigginsi,,plants
+ZJ2,ENEPI 7701,Xantusia,gilberti,gilberti,gilberti,gilberti,24.03839,-110.37176,TRUE,don't trust georef,Baja Calif. Sur: Victoria,FALSE,ENEPI7701,AGTAAG,ATGTCA,gilberti,,plants
+ZB7,ENEPI 7702,Xantusia,vigilis,wigginsi,bez_wig,wigginsi,31.88406502,-116.6620035,TRUE,,Baja California: Trinidad,FALSE,ENEPI7702,AACGGT,ATGTCA,wigginsi,,plants
+ZL9,ENEPI 7703,Xantusia,wigginsi,wigginsi,bez_wig,wigginsi,29.46917023,-114.1760443,TRUE,,Baja California: Chapala,FALSE,ENEPI7703,ATAACC,ATGTCA,wigginsi,,plants
+ZM3,ENEPI 7704,Xantusia,wigginsi,wigginsi,bez_wig,wigginsi,30.06010536,-115.7249377,TRUE,,Baja California: Rosario,FALSE,ENEPI7704,ATGTCC,ATGTCA,wigginsi,,plants
+ZD1,ENEPI 7706,Xantusia,wigginsi,wigginsi,bez_wig,wigginsi,31.89055929,-116.5637351,TRUE,don't trust georef,Baja California: Fernando,FALSE,ENEPI7706,ACCAAA,ATGTCA,wigginsi,,plants
+XY1,ENEPI 7707,Xantusia,magdalena,magdalena,magdalena,sherbrookei,32.527044,-117.089561,TRUE,,Baja Calif. Sur: Juanico,FALSE,ENEPI7707,CAGAGT,CAGATC,sherbrookei,,plants
+ZE4,ENEPI 7708,Xantusia,wigginsi,wigginsi,bez_wig,wigginsi,28.66988669,-114.2342849,TRUE,,Baja California: Rosalillita,FALSE,ENEPI7708,ACTAGG,ATGTCA,wigginsi,,plants
+ZF1,ENEPI 7709,Xantusia,magdalena,magdalena,magdalena,sherbrookei,32.49282577,-116.960542,TRUE,,Baja Calif. Sur: Poza,FALSE,ENEPI7709,AGCATT,ATGTCA,sherbrookei,,plants
+JLE 15169,,Xantusia,extorris,extorris,extorris,extorris,25.11247,-103.76997,FALSE,,,FALSE,JLE15169,AACGGT,ATCACG,NA,,plants
+JLE 15170,,Xantusia,extorris,extorris,extorris,extorris,25.11247,-103.76997,FALSE,,,FALSE,JLE15170,AACGGT,CGATGT,NA,,plants
+JLE 15171,,Xantusia,extorris,extorris,extorris,extorris,25.11247,-103.76997,FALSE,,,FALSE,JLE15171,CAGAGT,TGACCA,NA,,plants
+JLE 15222,,Xantusia,bolsonae,bolsonae,bolsonae,bolsonae,25.73519444,-103.6786667,FALSE,,,FALSE,JLE15222,ACTAGG,GTCCGC,NA,,rocks
+JLE 15223,,Xantusia,bolsonae,bolsonae,bolsonae,bolsonae,25.73519444,-103.6786667,FALSE,,,FALSE,JLE15223,AACGGT,GTCCGC,NA,,rocks
+JLE 15305,,Xantusia,extorris,extorris,extorris,extorris,25.08538889,-102.6342778,FALSE,,,FALSE,JLE15305,AGTAAG,GTCCGC,NA,,plants
+JLE 15306,,Xantusia,extorris,extorris,extorris,extorris,25.08538889,-102.6342778,FALSE,,,FALSE,JLE15306,ATAACC,GTCCGC,NA,,plants
+JLE 15311,,Xantusia,extorris,extorris,extorris,extorris,25.08538889,-102.6342778,FALSE,,,FALSE,JLE15311,ATGTCC,GTCCGC,NA,,plants
+JLE 15312,,Xantusia,bolsonae,bolsonae,bolsonae,bolsonae,25.73519444,-103.6786667,FALSE,,,FALSE,JLE15312,AGCATT,GTCCGC,NA,,rocks
+TC 43,LACM 129865,Xantusia,sierrae,vigilis,vigilis_4,sierra,35.4585203,-118.8267202,FALSE,,California: Rancheria Road,FALSE,LACM129865,CAGAGT,CCGTCC,sierrae,,rocks
+LACM 129875,LACM 129875,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.2250811,-118.1780902,FALSE,,,FALSE,LACM129875,AGCATT,ACTTGA,vigilis,,plants
+LACM 129881,LACM 129881,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.9455,-118.47731,FALSE,,,FALSE,LACM129881,ACCAAA,GCCAAT,NA,assuming plants based on lineage,plants
+LACM 134060,LACM 134060,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.74711,-117.81257,FALSE,,,FALSE,LACM134060,ACCAAA,ACAGTG,vigilis,,plants
+5316,LACM 134481,Xantusia,bezyi,bezyi,bez_wig,bezyi,33.34302997,-110.9700962,TRUE,,"USA | Arizona | Pinal | 8.3 mi (by US 60) ENE Superior, vic Pinal Ranch, W base Five Point Mtn",FALSE,LACM134481,AGTAAG,CTTGTA,bezyi,,rocks
+5321,LACM 134486,Xantusia,bezyi,bezyi,bez_wig,bezyi,33.34302997,-110.9700962,TRUE,,"USA | Arizona | Pinal | 8.3 mi (by US 60) ENE Superior, vic Pinal Ranch, W base Five Point Mtn",FALSE,LACM134486,ATAACC,CTTGTA,bezyi,,rocks
+5332,LACM 134498,Xantusia,bezyi,bezyi,bez_wig,bezyi,33.8453445,-111.4676323,FALSE,,Arizona: Sunflower (1.3 S),FALSE,LACM134498,ATGTCC,CTTGTA,bezyi,,rocks
+5362,LACM 134528,Xantusia,arizonae,arizonae,arizonae,arizonae,34.22193653,-112.7471243,FALSE,,Arizona: Yarnell,FALSE,LACM134528,CAGAGT,CTTGTA,arizonae,,rocks
+LACM 134545,LACM 134545,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.43284728,-114.1679065,TRUE,,"USA | Arizona | Mohave | Cerbat Mts, Windy Point",FALSE,LACM134545,AGCATT,ACAGTG,vigilis,,rocks
+5389,LACM 134557,Xantusia,vigilis,vigilis,vigilis_4,sierra,35.6137373,-118.8583882,FALSE,,,FALSE,LACM134557,ACCAAA,CTTGTA,sierrae,,rocks
+LACM 134578,LACM 134578,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,36.02064,-118.12466,FALSE,,,FALSE,LACM134578,ACTAGG,ACAGTG,NA,assuming plants based on lineage,plants
+LACM 135194,LACM 135194,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.1846997,-113.8080072,FALSE,,,FALSE,LACM135194,ACTAGG,GCCAAT,vigilis,,rocks
+LACM 135205,LACM 135205,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.81535358,-114.1124623,TRUE,,USA | Arizona | Mohave | 6.3 mi (by Ariz 93) SE Pierce Ferry Rd jct,FALSE,LACM135205,AGCATT,GCCAAT,vigilis,,plants
+551,LACM 135374,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.32559048,-117.948436,TRUE,,California: Red Rock Canyon,FALSE,LACM135374,ACTAGG,CTTGTA,vigilis,,plants
+LACM 136235,LACM 136235,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.0384367,-118.2802329,FALSE,,,FALSE,LACM136235,AGTAAG,GCCAAT,NA,assuming plants based on lineage,plants
+LACM 136734,LACM 136734,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,37.90708,-110.57433,FALSE,,,FALSE,LACM136734,AGTAAG,ACAGTG,vigilis,,plants
+LACM 136799,LACM 136799,Xantusia,vigilis,wigginsi,bez_wig,wigginsi,27.67659,-113.4037,FALSE,,,FALSE,LACM136799,ATGTCC,GCCAAT,NA,,plants
+LACM 137433,LACM 137433,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.6017522,-118.1202538,FALSE,,,FALSE,LACM137433,AACGGT,CAGATC,vigilis,,plants
+LACM 137438,LACM 137438,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.78299,-119.04547,FALSE,,,FALSE,LACM137438,ACCAAA,CAGATC,NA,assuming plants based on lineage,plants
+LACM 138247,LACM 138247,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.9111414,-118.1634949,FALSE,,,FALSE,LACM138247,ACTAGG,CAGATC,NA,assuming plants based on lineage,plants
+LACM 138254,LACM 138254,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.49944,-117.64197,FALSE,,,FALSE,LACM138254,AGCATT,CAGATC,NA,assuming plants based on lineage,plants
+5771,LACM 138275,Xantusia,arizonae,arizonae,arizonae,arizonae,34.2261307,-112.9272549,FALSE,,Arizona: Date Creek Mts,FALSE,LACM138275,ACCAAA,AGTCAA,arizonae,,rocks
+LACM 138286,LACM 138286,Xantusia,vigilis,arizonae,arizonae,arizonae,34.4151237,-113.0129242,FALSE,,,FALSE,LACM138286,AGTAAG,CAGATC,NA,,rocks
+LACM 138298,LACM 138298,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.5948,-113.16889,TRUE,,USA | Arizona | Yavapai | 3.1 miles (by road) SW Bagdad,FALSE,LACM138298,AGTAAG,GGCTAC,vigilis,,plants
+LACM 138825,LACM 138825,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.19273902,-114.0560435,TRUE,,"USA | Arizona | Mohave | NE Hualapai Mts, 17 mi (airline) ESE Kingman",FALSE,LACM138825,ATAACC,GATCAG,vigilis,,rocks
+LACM 138827,LACM 138827,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.90066788,-113.8773822,TRUE,,"USA | Arizona | Mohave | SW Hualapai Mts, 16.2 mi (by rd) SE Yucca",FALSE,LACM138827,AGTAAG,GATCAG,vigilis,,plants
+LACM 138837,LACM 138837,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,33.08512952,-114.137499,TRUE,,"USA | Arizona | Yuma | Castle Dome Mts, vic Horse Tank",FALSE,LACM138837,ATGTCC,GGCTAC,vigilis,,plants
+LACM 138840,LACM 138840,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,33.41686828,-114.0355996,TRUE,,"USA | Arizona | Yuma | Kofa Mts, vic Budweiser Spring",FALSE,LACM138840,CAGAGT,GGCTAC,vigilis,,plants
+5821,LACM 138840,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,33.41686828,-114.0355996,TRUE,,Arizona: Budwiser Spring,TRUE,LACM138840_2,ACTAGG,AGTCAA,NA,,plants
+5828,LACM 138847,Xantusia,arizonae,arizonae,arizonae,arizonae,34.16612064,-112.7294305,TRUE,,Arizona: Stanton,FALSE,LACM138847,AGCATT,AGTCAA,arizonae,,rocks
+5970,LACM 139927,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.5948,-113.16889,TRUE,,Arizona: Bagdad (2.6 NE),FALSE,LACM139927,CAGAGT,AGTCAA,vigilis,,plants
+LACM 139936,LACM 139936,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.70572904,-113.6055482,TRUE,,USA | Arizona | Mohave | 13.8 mi (airline) SE Wikieup,FALSE,LACM139936,AGCATT,GATCAG,vigilis,,plants
+LACM 139942,LACM 139942,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.38909928,-113.6577199,TRUE,,USA | Arizona | Mohave | Valentine,FALSE,LACM139942,ATGTCC,GATCAG,vigilis,,rocks
+5917,LACM 139947,Xantusia,vigilis,vigilis,NA,NA,35.38909928,-113.6577199,TRUE,,Arizona: Valentine NE,FALSE,LACM139947,ATAACC,AGTCAA,vigilis,,rocks
+5953,LACM 139955,Xantusia,arizonae,arizonae,arizonae,arizonae,34.47270985,-112.8906766,TRUE,,"USA | Arizona | Yavapai | 4.9 mi (by rd) WNW Yava, vic. Muleshoe Ranch",FALSE,LACM139955,ATGTCC,AGTCAA,arizonae,,rocks
+5971,LACM 139961,Xantusia,bezyi,bezyi,bez_wig,bezyi,33.67166372,-111.1615373,TRUE,,USA | Arizona | Gila | 5.5 mi (airline) SE Roosevelt Dam,FALSE,LACM139961,AACGGT,AGTTCC,bezyi,,rocks
+LACM 145078,LACM 145078,Xantusia,vigilis,vigilis,NA,NA,37.32517,-118.53443,FALSE,,USA | California | Inyo | 8 mi W Bishop; Starlite Dr.,FALSE,LACM145078,AACGGT,ACTTGA,vigilis,,plants
+5267,LACM 145080,Xantusia,wigginsi,wigginsi,bez_wig,wigginsi,27.67659,-113.4037,FALSE,,Baja Calif. Sur: Vizcaino,FALSE,LACM145080,CAGAGT,GATCAG,wigginsi,,plants
+6088,LACM 145086,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.0511682,-118.1998042,FALSE,,California: Mojave,FALSE,LACM145086,AGCATT,AGTTCC,vigilis,,plants
+6102,LACM 145111,Xantusia,bezyi,bezyi,bez_wig,bezyi,33.30900753,-111.0470619,TRUE,,Arizona: Oak Flat,FALSE,LACM145111,AGTAAG,AGTTCC,bezyi,,rocks
+6097,LACM 145119,Xantusia,arizonae,arizonae,arizonae,arizonae,34.41920544,-112.9170438,TRUE,,Arizona: Hillside (4.0 W),FALSE,LACM145119,CAGAGT,ACTTGA,arizonae,,rocks
+LACM 145123,LACM 145123,Xantusia,vigilis,bezyi,bez_wig,bezyi,33.689694,-111.501341,FALSE,,,FALSE,LACM145123,ACCAAA,GATCAG,NA,,rocks
+LACM 145140,LACM 145140,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,37.46053953,-114.7753677,TRUE,,USA | Nevada | Lincoln | 16.0 (by rd) NE Delamar,FALSE,LACM145140,ATAACC,ACTTGA,vigilis,,plants
+5999,LACM 145140,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,37.46053953,-114.7753677,TRUE,,Nevada: Delamar,TRUE,LACM145140_2,ACCAAA,AGTTCC,NA,,plants
+LACM 145148,LACM 145148,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,36.67234,-114.35255,FALSE,,,FALSE,LACM145148,ATAACC,CAGATC,NA,assuming plants based on location relative to mtDNA relatives,plants
+LACM 145156,LACM 145156,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,35.8160434,-115.2961599,FALSE,,,FALSE,LACM145156,ATGTCC,CAGATC,NA,assuming plants based on location relative to mtDNA relatives,plants
+LACM 145170,LACM 145170,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.4741667,-113.4818333,FALSE,,,FALSE,LACM145170,ACTAGG,GATCAG,vigilis,,plants
+6172,LACM 145197,Xantusia,arizonae,arizonae,arizonae,arizonae,34.4025,-112.989,TRUE,,Arizona: Grayback Mtn (4.2),FALSE,LACM145197,ATAACC,AGTTCC,arizonae,,rocks
+LACM 145198,LACM 145198,Xantusia,vigilis,arizonae,arizonae,arizonae,34.4025,-112.989,FALSE,,,FALSE,LACM145198,ATAACC,GGCTAC,NA,,rocks
+6062,LACM 145210,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,33.81199736,-113.3468215,TRUE,,Arizona: Harquahala Mts,FALSE,LACM145210,ACTAGG,AGTTCC,vigilis,,plants
+5272,LACM 151489,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.28991894,-115.5832576,TRUE,,California: Cima Dome,FALSE,LACM151489,AGCATT,CTTGTA,vigilis,,plants
+LACM 183106,LACM 183106,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.76888,-115.85587,FALSE,,,FALSE,LACM183106,ATAACC,TAGCTT,NA,assuming plants based on lineage,plants
+LACM 183109,LACM 183109,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.7709,-115.85471,FALSE,,,FALSE,LACM183109,ATGTCC,TAGCTT,NA,assuming plants based on lineage,plants
+LACM 184722,LACM 184722,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,35.99034,-117.40487,FALSE,,,FALSE,LACM184722,ACCAAA,ACTTGA,NA,assuming plants based on lineage,plants
+LACM 186656,LACM 186656,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.92227,-115.5755,FALSE,,,FALSE,LACM186656,AACGGT,GGCTAC,NA,assuming plants based on lineage,plants
+LACM 186759,LACM 186759,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.29079,-117.83568,FALSE,,,FALSE,LACM186759,ATGTCC,ACTTGA,NA,assuming plants based on lineage,plants
+LACM 186762,LACM 186762,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.688347,-117.550084,FALSE,,,FALSE,LACM186762,ACCAAA,GGCTAC,NA,assuming plants based on lineage,plants
+LACM 186805,LACM 186805,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.33259,-118.01248,FALSE,,,FALSE,LACM186805,AACGGT,GATCAG,NA,assuming plants based on lineage,plants
+LACM 186943,LACM 186943,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.10905,-118.14864,FALSE,,,FALSE,LACM186943,AGTAAG,ACTTGA,NA,assuming plants based on lineage,plants
+LACM 187025,LACM 187025,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.77083,-115.84325,FALSE,,,FALSE,LACM187025,ACTAGG,GGCTAC,NA,assuming plants based on lineage,plants
+LACM 187026,LACM 187026,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.76559,-115.85992,FALSE,,,FALSE,LACM187026,AGCATT,GGCTAC,NA,assuming plants based on lineage,plants
+LACM 187136,LACM 187136,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,37.40599,-118.26578,FALSE,,,FALSE,LACM187136,ACTAGG,ACTTGA,NA,assuming plants based on lineage,plants
+LACM 187162,LACM 187162,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,37.49185,-118.3522,FALSE,,,FALSE,LACM187162,ACCAAA,TAGCTT,NA,assuming plants based on lineage,plants
+LACM 188013,LACM 188013,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,37.66303,-118.4876,FALSE,,,FALSE,LACM188013,AGCATT,TAGCTT,NA,assuming plants based on lineage,plants
+LACM 188014,LACM 188014,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,37.58829,-118.45799,FALSE,,,FALSE,LACM188014,ACTAGG,TAGCTT,NA,assuming plants based on lineage,plants
+LACM 189193,LACM 189193,Xantusia,vigilis,vigilis,vigilis_4,vigilis_OV,37.4876,-118.60206,FALSE,,,FALSE,LACM189193,AACGGT,TAGCTT,NA,assuming plants based on lineage,plants
+BYU1234,UTA R38021,Lepidophyma,mayae,mayae,NA,NA,NA,NA,NA,,"Mexico: Huehuetenango, Finca Chiblac",FALSE,Lepidophyma_mayae_BYU1234,NA,NA,NA,,NA
+BYU1121,LACM 131145,Lepidophyma,sylvaticum,sylvaticum,NA,NA,NA,NA,NA,,"Mexico: San Luis Potosi, Alvarez",FALSE,Lepidophyma_sylvaticum_BYU1121,NA,NA,NA,,NA
+BYU5526,LACM 136352,Lepidophyma,tuxtlae,tuxtlae,NA,NA,NA,NA,NA,,"Mexico:  Veracruz, Sontecomapan",FALSE,Lepidophyma_tuxtlae_BYU5526,NA,NA,NA,,NA
+MVZ 137517,MVZ 137517,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,35.5516298,-118.2008008,FALSE,,,FALSE,MVZ137517,ACCAAA,ATCACG,NA,assuming plants based on lineage,plants
+MVZ 173533,MVZ 173533,Xantusia,vigilis,extorris,extorris,extorris,25.11858,-103.78942,TRUE,,11.6 mi N Verdrocena IN DURANGO MEXICO,FALSE,MVZ173533,ACTAGG,ATCACG,NA,,plants
+MVZ226109,MVZ226109,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.190371,-116.521431,FALSE,,,FALSE,MVZ226109,AACGGT,TTAGGC,NA,,rocks
+MVZ 229114,MVZ 229114,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.8676418,-118.4163821,FALSE,,,FALSE,MVZ229114,AGCATT,ATCACG,NA,assuming plants based on lineage,plants
+MVZ 231865,MVZ 231865,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,37.83816667,-110.6051667,FALSE,,,FALSE,MVZ231865,AGTAAG,ATCACG,NA,assuming plants based on location relative to mtDNA relatives,plants
+MVZ 232572,MVZ 232572,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.4826667,-113.3476667,FALSE,,,FALSE,MVZ232572,ATAACC,ATCACG,NA,assuming plants based on location relative to mtDNA relatives,plants
+MVZ 232630,MVZ 232630,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.51966667,-116.8696667,FALSE,,,FALSE,MVZ232630,AGTAAG,TAGCTT,NA,,rocks
+MVZ 232636,MVZ 232636,Xantusia,vigilis,vigilis,vigilis_1,vigilis_SJ,33.5855,-116.4553333,FALSE,,,FALSE,MVZ232636,ATGTCC,ATCACG,NA,,plants
+MVZ 232652,MVZ 232652,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,34.42333333,-114.035,FALSE,,,FALSE,MVZ232652,CAGAGT,ATCACG,NA,assuming plants based on location relative to mtDNA relatives,plants
+MVZ 232653,MVZ 232653,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.08466667,-116.3735,FALSE,,,FALSE,MVZ232653,ACCAAA,CGATGT,NA,,plants
+MVZ 232658,MVZ 232658,Xantusia,vigilis,vigilis,vigilis_1,vigilis_SJ,34.0875,-116.4928333,FALSE,,,FALSE,MVZ232658,ACTAGG,CGATGT,NA,,plants
+MVZ 232669,MVZ 232669,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.76687,-119.41957,FALSE,,,FALSE,MVZ232669,AGCATT,CGATGT,NA,assuming plants based on lineage,plants
+MVZ 232713,MVZ 232713,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,33.09787,-116.66777,FALSE,,,FALSE,MVZ232713,ATAACC,ACAGTG,NA,,rocks
+MVZ 232719,MVZ 232719,Xantusia,vigilis,vigilis,vigilis_4,sierra,36.49933333,-121.205,FALSE,,,FALSE,MVZ232719,AGTAAG,CGATGT,NA,assuming rocks based on lineage,rocks
+MVZ 232723,MVZ 232723,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.336,-117.5213333,FALSE,,,FALSE,MVZ232723,ATAACC,CGATGT,NA,assuming plants based on lineage,plants
+MVZ 232726,MVZ 232726,Xantusia,vigilis,vigilis,vigilis_2,vigilis_EM,33.054,-116.4223333,FALSE,,,FALSE,MVZ232726,ATGTCC,CGATGT,NA,assuming plants based on location relative to mtDNA relatives,plants
+MVZ 232731,MVZ 232731,Xantusia,vigilis,vigilis,vigilis_1,vigilis_SJ,33.8992,-116.74467,FALSE,,,FALSE,MVZ232731,CAGAGT,CGATGT,NA,,plants
+MVZ 236363,MVZ 236363,Xantusia,vigilis,extorris,extorris,extorris,25.0853333,-102.631,FALSE,,,FALSE,MVZ236363,ACCAAA,TTAGGC,NA,,plants
+MVZ 236369,MVZ 236369,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,31.6865,-115.9306667,FALSE,,,FALSE,MVZ236369,CAGAGT,GCCAAT,NA,,rocks
+MVZ 236373,MVZ 236373,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,30.9906667,-115.73,FALSE,,,FALSE,MVZ236373,ATGTCC,ACAGTG,NA,,rocks
+MVZ 236375,MVZ 236375,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.1413333,-116.5253333,FALSE,,,FALSE,MVZ236375,CAGAGT,ACAGTG,NA,,rocks
+MVZ 249130,MVZ 249130,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.15514,-116.41901,FALSE,,,FALSE,MVZ249130,ACTAGG,TTAGGC,NA,,plants
+MVZ 249136,MVZ 249136,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.24404,-116.43578,FALSE,,,FALSE,MVZ249136,AGCATT,TTAGGC,NA,,plants
+MVZ 249137,MVZ 249137,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.17918,-116.42757,FALSE,,,FALSE,MVZ249137,AGTAAG,TTAGGC,NA,,plants
+MVZ 250600,MVZ 250600,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.31433333,-116.4748333,FALSE,,,FALSE,MVZ250600,ATAACC,TTAGGC,NA,,plants
+MVZ 250603,MVZ 250603,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.387,-116.9461667,FALSE,,,FALSE,MVZ250603,ATGTCC,TTAGGC,NA,,plants
+MVZ 250605,MVZ 250605,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.67616667,-116.9636667,FALSE,,,FALSE,MVZ250605,CAGAGT,TTAGGC,NA,,plants
+MVZ 250606,MVZ 250606,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.63,-116.9656667,FALSE,,,FALSE,MVZ250606,AACGGT,TGACCA,NA,,plants
+MVZ 250610,MVZ 250610,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.435285,-117.1026667,FALSE,,,FALSE,MVZ250610,ACCAAA,TGACCA,NA,assuming plants based on lineage,plants
+MVZ 250613,MVZ 250613,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.420874,-117.181205,FALSE,,,FALSE,MVZ250613,ACTAGG,TGACCA,NA,assuming plants based on lineage,plants
+MVZ 250614,MVZ 250614,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.39866667,-117.2273333,FALSE,,,FALSE,MVZ250614,AGCATT,TGACCA,NA,assuming plants based on lineage,plants
+MVZ 250619,MVZ 250619,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.37333333,-117.2503333,FALSE,,,FALSE,MVZ250619,AGTAAG,TGACCA,NA,assuming plants based on lineage,plants
+MVZ 250620,MVZ 250620,Xantusia,vigilis,vigilis,vigilis_3,vigilis_KCAV,34.44616667,-117.7715,FALSE,,,FALSE,MVZ250620,ATAACC,TGACCA,NA,assuming plants based on lineage,plants
+MVZ 250622,MVZ 250622,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.08016667,-116.0358333,FALSE,,,FALSE,MVZ250622,ATGTCC,TGACCA,NA,,plants
+MVZ 250734,MVZ 250734,Xantusia,vigilis,vigilis,vigilis_1,vigilis_YV,34.08966667,-116.3786667,FALSE,,,FALSE,MVZ250734,AACGGT,ACAGTG,NA,,plants
+370,MZFC 4759,Xantusia,sanchezi,sanchezi,sanchezi,sanchezi,21.26693679,-103.1663192,TRUE,,Zacatecas: Moyahua,FALSE,MZFC4759,CAGAGT,TAGCTT,sanchezi,,plants
+339,MZFC 4764,Xantusia,extorris,extorris,extorris,extorris,25.12120542,-103.7927145,TRUE,,"Pedricena, Durango, Mexico",FALSE,MZFC4764,AACGGT,GCCAAT,extorris,,plants
+346,MZFC 4771,Xantusia,bolsonae,bolsonae,bolsonae,bolsonae,25.12120542,-103.7927145,TRUE,,"Pedricena, Durango, Mexico",FALSE,MZFC4771,AACGGT,CTTGTA,bolsonae,,rocks
+SD 3122,,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.6359,-116.41537,FALSE,,,FALSE,SD3122,ATAACC,CCGTCC,NA,,rocks
+SD 3123,,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.63589,-116.41639,FALSE,,,FALSE,SD3123,ATGTCC,CCGTCC,NA,,rocks
+SD 3133,,Xantusia,vigilis,henshawi,henshawi_1,henshawi_1,33.61831,-116.42674,FALSE,,,FALSE,SD3133,CAGAGT,ATGTCA,NA,,rocks
+SD 3219,,Xantusia,henshawi,henshawi,henshawi_3,henshawi_3,33.88853,-116.68429,FALSE,,,FALSE,SD3219,AACGGT,GTAGAG,NA,,rocks
+SD 3402,,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.61312,-116.42851,FALSE,,,FALSE,SD3402,ACTAGG,GTAGAG,NA,,rocks
+SDSHM 68973,SDSHM 68973,Xantusia,vigilis,henshawi,henshawi_2,henshawi_2,32.6297,-116.08916,FALSE,,,FALSE,SDSHM68973,AACGGT,AGTCAA,NA,,rocks
+SDSHM 74951,SDSHM 74951,Xantusia,vigilis,henshawi,henshawi_3,henshawi_3,33.87653,-116.67892,FALSE,,,FALSE,SDSHM74951,AGTAAG,AGTCAA,NA,,rocks
+SDSNH 75863,SDSNH 75863,Xantusia,henshawi,henshawi,NA,NA,33.89459,-116.79521,FALSE,,,FALSE,SDSNH75863,ACCAAA,CCGTCC,NA,,rocks
+SDSNH 75864,SDSNH 75864,Xantusia,henshawi,henshawi,henshawi_3,henshawi_3,33.89052,-116.7956,FALSE,,,FALSE,SDSNH75864,AACGGT,CCGTCC,NA,,rocks
+SDSNH 75865,SDSNH 75865,Xantusia,henshawi,henshawi,henshawi_3,henshawi_3,33.89828,-116.83417,FALSE,,,FALSE,SDSNH75865,ACTAGG,CCGTCC,NA,,rocks
+SDSNH 75866,SDSNH 75866,Xantusia,henshawi,henshawi,henshawi_3,henshawi_3,33.90345,-116.8268,FALSE,,,FALSE,SDSNH75866,AGCATT,CCGTCC,NA,,rocks
+SDSNH 76042,SDSNH 76042,Xantusia,henshawi,henshawi,henshawi_1,henshawi_1,33.57327,-116.45854,FALSE,,,FALSE,SDSNH76042,AGTAAG,CCGTCC,NA,,rocks
+XAHE 05,,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.63756,-116.09733,FALSE,from SDNHM,,FALSE,XAHE05,AGCATT,GTAGAG,NA,,rocks
+XAHE 06,,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.63756,-116.09733,FALSE,from SDNHM,,FALSE,XAHE06,AGTAAG,GTAGAG,NA,,rocks
+XAHE 09,,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.63822,-116.09702,FALSE,from SDNHM,,FALSE,XAHE09,ATGTCC,GTAGAG,NA,,rocks
+XAHE 14,,Xantusia,henshawi,henshawi,NA,NA,32.63767,-116.09792,FALSE,from SDNHM,,FALSE,XAHE14,CAGAGT,AGTTCC,NA,,rocks
+XAHE 18,,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.63822,-116.0971,FALSE,from SDNHM,,FALSE,XAHE18,ACCAAA,GTAGAG,NA,,rocks
+XAHE 25,,Xantusia,henshawi,henshawi,henshawi_2,henshawi_2,32.6376,-116.09789,FALSE,from SDNHM,,FALSE,XAHE25,ATAACC,GTAGAG,NA,,rocks
+xsa 373,,Xantusia,sanchezi,sanchezi,sanchezi,sanchezi,21.26693679,-103.1663192,TRUE,,Zacatecas: Moyahua,FALSE,xsa373,ATAACC,GCCAAT,NA,,plants
