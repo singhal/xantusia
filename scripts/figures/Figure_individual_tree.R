@@ -11,7 +11,7 @@ library(rnaturalearthdata)
 
 ### Setting up the Key Files ----
 setwd("~/Dropbox (Personal)/research_projects-ACTIVE/Xantusia/")
-source("./scripts/gps_colors.R")
+source("./scripts/figures/gps_colors.R")
 
 x = read.csv("./metadata/xantusia_samples_v10.csv")
 
@@ -153,7 +153,7 @@ admixplot = plot_admixture(trees[[1]])
 mapplot = plot_map(trees[[1]])
  
 allplt = cowplot::plot_grid(trees[[2]], admixplot, mapplot, ncol = 3,
-                            rel_widths =  c(2, 1, 2))
+                            rel_widths =  c(2, 1, 2), labels = c("A", "B", "C"))
 cowplot::save_plot("figures/all_ind_nuc_tree.png", allplt, 
                    base_height = 8, base_width = 10)
 

@@ -10,10 +10,13 @@ setwd("~/Dropbox (Personal)/research_projects-ACTIVE/Xantusia/")
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
 # get colors
-source("./scripts/gps_colors.R")
+source("./scripts/figures/gps_colors.R")
 
 # get metadata
 sp = read.csv("metadata/xantusia_samples_v10.csv")
+
+qt1 = sf::read_sf("~/Desktop/GDM_006_FAM_750k_v2_GIS/shapefiles/FAM_Qt_Faults.shp")
+qt2 = qt1 %>% st_transform(crs = 4979)
 
 # get in the best data
 cl = read.csv("data/admixture/best_runs.csv")
@@ -56,8 +59,8 @@ for (i in 1:nrow(cl)) {
   ylim1 = min(a1$latitude2) - abs(max(a1$latitude2) -  min(a1$latitude2)) * 0.1
   ylim2 = max(a1$latitude2) + abs(max(a1$latitude2) -  min(a1$latitude2)) * 0.1
   
-  xlim1 = min(a1$longitude2) - abs(max(a1$longitude2) -  min(a1$longitude2)) * 0.1
-  xlim2 = max(a1$longitude2) + abs(max(a1$longitude2) -  min(a1$longitude2)) * 0.1
+  xlim1 = min(a1$longitude2) - abs(max(a1$longitude2) -  min(a1$longitude2)) * 1
+  xlim2 = max(a1$longitude2) + abs(max(a1$longitude2) -  min(a1$longitude2)) * 1
   
   # rename rows
   for (xx in 1:nrow(map2)) {
@@ -69,6 +72,7 @@ for (i in 1:nrow(cl)) {
   map = ggplot() +
     ## Adding baseline map:
     geom_sf(data = world, fill = "white", color = "gray70", size = 0.15) +
+    geom_sf(data = qt2, color = alpha("gray30", 0.4)) +
     ## Pie chart of the ancestry coefficients:
     geom_scatterpie(data = a1, aes(x = longitude2, y = latitude2),
                     pie_scale = sizes[i], alpha = 1,

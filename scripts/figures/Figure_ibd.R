@@ -2,11 +2,12 @@ rm(list = ls())
 
 library(sf)
 library(tidyverse)
+library(algatr)
 
 setwd("~/Dropbox (Personal)/research_projects-ACTIVE/Xantusia/")
-source("scripts/gps_colors.R")
+source("scripts/figures/gps_colors.R")
 
-x = read.csv("metadata/xantusia_samples_v9.csv")
+x = read.csv("metadata/xantusia_samples_v10.csv")
 
 pts = x %>% filter(complete.cases(longitude)) %>% 
   st_as_sf(coords = c("longitude", "latitude")) %>% 
@@ -27,7 +28,7 @@ d3 %>% filter(!complete.cases(dist)) %>% nrow()
 
 # filter out low values
 d4 = d3 %>% filter(fst_denom >= 100) %>% 
-  mutate(dist = as.numeric(dist), log_dist = log(dist),
+  mutate(dist = as.numeric(dist), log_dist = log(dist + 100),
          inv_fst = fst / (1 - fst))
 
 # who am i losing?
@@ -43,19 +44,32 @@ keepsp = keepsp[keepsp != "bolsonae"]
 
 lms = vector(mode = "list", length = length(keepsp))
 for (i in 1:length(keepsp)) {
-  dx = d4 %>% filter(sp1 == sp2, sp1 %in% keepsp[i]) %>%
-    filter(is.finite(log_dist))
-  lms[[i]] = lm(dx$inv_fst ~ dx$log_dist)
+  dx1 = d4 %>% filter(sp1 == sp2, sp1 %in% keepsp[i]) %>% 
+    select(ind1, ind2, inv_fst, log_dist)
+    
+  dx2 = dx1 %>% rename(ind1 = ind2, ind2 = ind1)
+  dx3 = data.frame(ind1 = unique(c(dx1$ind1, dx1$ind2)),
+                   ind2 = unique(c(dx1$ind1, dx1$ind2)),
+                   inv_fst = 0, log_dist = 0)
+  
+  dx = rbind(dx1, dx2, dx3) %>% select(ind1, ind2, inv_fst) %>% 
+    pivot_wider(names_from = ind2, values_from = inv_fst)
+  inv_fst = as.matrix(dx %>% arrange(match(ind1, colnames(dx))) %>% select(-ind1))
+  
+  dx = rbind(dx1, dx2, dx3) %>% select(ind1, ind2, log_dist) %>% 
+    pivot_wider(names_from = ind2, values_from = log_dist)
+  log_dist = as.matrix(dx %>% arrange(match(ind1, colnames(dx))) %>% select(-ind1))
+  
+  lms[[i]] = mantel(log_dist, inv_fst)
 }
 
 # pvals 
-pvals = unlist(lapply(lms, function(x) summary(x)$coefficients[2, 4]))
+pvals = unlist(lapply(lms, function(x) x$signif))
 names(pvals) = keepsp
 
-
-# rsq
-rsq = unlist(lapply(lms, function(x) summary(x)$adj.r.squared))
-names(rsq) = keepsp
+# r
+rval = unlist(lapply(lms, function(x) x$statistic))
+names(rval) = keepsp
 
 # change title, change color
 d5 = d4 %>% filter(sp1 == sp2, sp1 %in% keepsp) %>%

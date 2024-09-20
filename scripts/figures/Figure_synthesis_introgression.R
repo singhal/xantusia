@@ -5,7 +5,7 @@ library(tidyverse)
 library(ggplot2)
 
 setwd("~/Dropbox (Personal)/research_projects-ACTIVE/Xantusia/")
-source("scripts/gps_colors.R")
+source("scripts/figures/gps_colors.R")
 
 ###############
 # DILS results
@@ -101,8 +101,9 @@ x2 = x2 %>% group_by(ht) %>% arrange(sp1, sp2) %>%
 t1 = t
 t1$tip.label = paste("X.", t1$tip.label)
 t1$tip.label[which(t1$tip.label == "X. magdalena")] = "X. sherbrookei"
+t1$tip.label = gsub("_", " ", t1$tip.label)
 
-pdf("figures/introgression_phylogeny.pdf", width = 8, height = 4)
+pdf("figures/introgression_phylogeny.pdf", width = 12, height = 4)
 par(mar = c(0, 0, 0, 6), xpd = T)
 plot.phylo(t1, edge.width = 2, show.tip.label = F)
 pp<-get("last_plot.phylo",envir=.PlotPhyloEnv)
@@ -150,10 +151,10 @@ for (i in 1:nrow(x2)) {
   
   n = pull(x2[i, "id"])
   diff = xlim - ht
-  xloc = ht + n * 0.15 * diff
+  xloc = ht + n * 0.2 * diff
   
   lines(x = c(xloc, xloc),
-        y = c(ys + 0.05, ye - 0.05), col = cols[pull(x2[i, "analysis"])])
+        y = c(ys + 0.05, ye - 0.05), col = cols[pull(x2[i, "analysis"])], lwd = 3)
 }
 legend(0, 5, lbltxt, text.col = cols, bty = "n", xjust = 0)
 dev.off()
