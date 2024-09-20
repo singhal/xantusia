@@ -10,7 +10,7 @@ setwd("~/Dropbox (Personal)/research_projects-ACTIVE/Xantusia/")
 source("~/Dropbox (Personal)/research_projects-ACTIVE/Sphenomorphine_speciation/scripts/geography_helper.R")
 
 # nuclear data
-d = read.csv("metadata/xantusia_samples_v9.csv")
+d = read.csv("metadata/xantusia_samples_v10.csv")
 d1 = d[complete.cases(d$OTU), ]
 d1 = d1[complete.cases(d1$latitude), ]
 
